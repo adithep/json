@@ -1,0 +1,117 @@
+[
+  {
+    "_spa": "main_nav",
+    "_spa_tem": "main_nav",
+    "_spa_gr_arr": [
+      "path_btn_gr"
+    ]
+  },
+
+  {
+    "_spa": "main_intro",
+    "_spa_tem": "main_intro",
+    "_spa_gr_arr": [
+      "secondary_path_link"
+    ]
+  },
+
+  {
+    "_spa": "reels",
+    "_spa_tem": "reels",
+    "_spa_gr_arr": [
+      "reels_gr"
+    ]
+  },
+
+  {
+    "_spa": "footer",
+    "_spa_tem": "footer",
+    "_spa_gr_arr": [
+      "company_about",
+      "subscription_form"
+    ]
+  },
+
+  {
+    "_spa": "img_gr_btn_gr",
+    "_spa_tem": "_btn_gr",
+    "_spa_gr_arr": [
+      "img_gr_btn_gr"
+    ]
+  },
+
+  {
+    "_spa": "img_gr_ty_behind_the_scene",
+    "_spa_tem": "img_gr",
+    "_spa_gr_arr": [
+      "img_gr_ty_behind_the_scene"
+    ]
+  },
+
+  {
+    "_spa": "img_location_gr_btn_gr",
+    "_spa_tem": "_btn_gr",
+    "_spa_gr_arr": [
+      "img_location_gr_btn_gr"
+    ]
+  },
+
+  {
+    "_spa": "img_gr_location_ty_restaruant",
+    "_spa_tem": "img_gr",
+    "_spa_gr_arr": [
+      "img_gr_location_ty_restaruant"
+    ]
+  },
+
+  {
+    "_spa": "img_gr_location_ty_office",
+    "_spa_tem": "img_gr",
+    "_spa_gr_arr": [
+      "img_gr_location_ty_office"
+    ]
+  },
+
+  {
+    "_spa": "img_gr_location_ty_mall",
+    "_spa_tem": "img_gr",
+    "_spa_gr_arr": [
+      "img_gr_location_ty_mall"
+    ]
+  },
+
+  {
+    "_spa": "img_gr_location_ty_condo",
+    "_spa_tem": "img_gr",
+    "_spa_gr_arr": [
+      "img_gr_location_ty_condo"
+    ]
+  },
+
+  {
+    "_spa": "our_team",
+    "_spa_tem": "humans_with_img",
+    "_spa_gr_arr": [
+      "location_manager_info_gr",
+      "casting_director_info_gr",
+      "art_director_info_gr"
+    ]
+  },
+
+  {
+    "_spa": "our_approach",
+    "_spa_tem": "our_approach",
+    "_spa_gr_arr": [
+      "approach_gr"
+    ]
+  },
+
+  {
+    "_spa": "contact_us",
+    "_spa_tem": "contact_us",
+    "_spa_gr_arr": [
+      "company_about",
+      "subscription_form"
+    ]
+  }
+]

@@ -1,0 +1,514 @@
+[
+
+  {
+    "_s_n_for": "_s",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "essential-list-json/_s.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "_s_n_for",
+      "json",
+      "_s_keys",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "keys",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "essential-list-json/keys.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "key_n",
+      "key_ty",
+      "key_s",
+      "key_key",
+      "key_r",
+      "key_arr",
+      "key_slave",
+      "key_dis",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "paths",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "web-str-json/paths.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "path_n",
+      "path_tem",
+      "path_spa_arr",
+      "path_dis",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "_spa",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "web-str-json/_spa.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "_spa",
+      "_spa_tem",
+      "_spa_gr_arr",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "classes",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "_s/classes.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "class_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "input_forms",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "essential-list-json/input_forms.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "input_form_n",
+      "href",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "continents",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "essential-list-json/continents.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "continent_n",
+      "continent_c",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "countries",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "essential-list-json/countries.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "country_n",
+      "demonym",
+      "_loc",
+      "population",
+      "calling_c",
+      "border_country_n_arr",
+      "currency_c_arr",
+      "language_n_arr",
+      "cca3",
+      "cca2",
+      "_nt_country_n",
+      "capital_n",
+      "relevance",
+      "continent_n",
+      "sub_region",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "cities",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "essential-list-json/cities.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "city_n",
+      "country_n",
+      "_loc",
+      "population",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "currencies",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "essential-list-json/currencies.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "currency_c",
+      "usd_exchange_rate",
+      "country_n_arr",
+      "symbol",
+      "_nt_symbol",
+      "currency_n",
+      "currency_n_pl",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "languages",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "essential-list-json/languages.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "language_n",
+      "language_c",
+      "_nt_language_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "service_n",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "essential-list-json/service_n.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "service_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+   {
+    "_s_n_for": "titles",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "essential-list-json/titles.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "title_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "services",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "alpha-entity-json/services.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "human_id",
+      "company_id",
+      "service_n",
+      "dte_of_entry",
+      "currency_c",
+      "cost",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "emails",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "alpha-entity-json/emails.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "mobiles",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "alpha-entity-json/mobiles.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "img",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "essential-list-json/img.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "img_uuid",
+      "img_link",
+      "location_id_arr",
+      "location_n_arr",
+      "location_ty_n_arr",
+      "human_id_arr",
+      "company_id_arr",
+      "country_n_arr",
+      "city_n_arr",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "location_ty",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "essential-list-json/location_ty.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "location_ty_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "locations",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "essential-list-json/locations.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "location_n",
+      "_loc",
+      "location_ty_n",
+      "country_n",
+      "city_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "approaches",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "alpha-entity-json/approaches.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "approach_n",
+      "img_uuid",
+      "approach_description",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "humans",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "core_team", "path": "alpha-entity-json/core_team.json"},
+      {"_n": "main", "path": "alpha-entity-json/humans.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "title_n",
+      "first_n",
+      "middle_n",
+      "last_n",
+      "_dt_of_birth",
+      "email_main_arr",
+      "email_work_arr",
+      "email_personal_arr",
+      "mobile_main_arr",
+      "mobile_work_arr",
+      "mobile_personal_arr",
+      "_adr_main_city_n",
+      "_adr_main_country_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "companies",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "new_company", "path": "alpha-entity-json/new_company.json"},
+      {"_n": "main", "path": "alpha-entity-json/companies.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "company_n",
+      "_dt_registered",
+      "email_main_arr",
+      "email_work_arr",
+      "email_personal_arr",
+      "mobile_main_arr",
+      "mobile_work_arr",
+      "mobile_personal_arr",
+      "_adr_main_city_n",
+      "_adr_main_country_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "translations",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "essential-list-json/translations.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "_s_tr",
+      "key_tr",
+      "_st",
+      "language_n",
+      "_tr_st",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "_alt_spellings",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "essential-list-json/alt-spellings.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "_s_alt_spellings",
+      "key_alt_spellings",
+      "_st",
+      "_alt_spelling_st",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "dis_ty",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "essential-list-json/dis_ty.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "dis_ty_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "_tri",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "_tri_btn", "path": "web-str-json/_tri_btn.json"},
+      {"_n": "_tri_input", "path": "web-str-json/_tri_input.json"},
+      {"_n": "_tri_media", "path": "web-str-json/_tri_media.json"},
+      {"_n": "_tri_banners", "path": "web-str-json/_tri_banners.json"},
+      {"_n": "_tri_s_docs", "path": "web-str-json/_tri_s_docs.json"},
+      {"_n": "_tri", "path": "web-str-json/_tri.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "_tri_n",
+      "_tri_gr",
+      "_tri_grs",
+      "_tri_dis",
+      "_tri_dis_ty",
+      "_tri_ty",
+      "sort",
+      "_tri_starting",
+      "form_collection",
+      "on_submit",
+      "on_click",
+      "on_drag",
+      "_tri_s_n",
+      "_tri_dis_key_arr",
+      "on_select",
+      "_tri_select_key",
+      "_tri_select_key_from",
+      "_tri_select_tri",
+      "_tri_limit_key",
+      "_tri_available",
+      "div_attrs",
+      "input_attrs",
+      "select_attrs",
+      "option_attrs",
+      "nav_attrs",
+      "form_attrs",
+      "submit_attrs",
+      "_btn_attrs",
+      "_dt",
+      "_usr"
+    ]
+  }
+
+
+]

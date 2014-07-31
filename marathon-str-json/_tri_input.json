@@ -1,0 +1,29 @@
+[
+  {
+    "_tri_n": "input_sub_n",
+    "_tri_grs": {
+      "subscription_form": {
+        "sort": 0
+      }
+    },
+    "_tri_dis_ty": "key",
+    "_tri_dis": "first_n",
+    "_tri_ty": "input",
+    "_tri_available": "all",
+    "on_submit": "submit_sub_first_n"
+  },
+
+  {
+    "_tri_n": "input_sub_email",
+    "_tri_grs": {
+      "subscription_form": {
+        "sort": 1
+      }
+    },
+    "_tri_dis_ty": "key",
+    "_tri_dis": "email.main",
+    "_tri_ty": "input",
+    "_tri_available": "all",
+    "on_submit": "submit_sub_email"
+  }
+]
