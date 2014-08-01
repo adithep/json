@@ -460,32 +460,41 @@
     "key_n": "on_click",
     "key_r": true,
     "key_ty": "_st",
-    "key_s": "_tri",
-    "key_key": "_tri_gr",
+    "key_s": "_tri_actions",
+    "key_key": "_tri_action_n",
     "key_dis": "Trigger Click"
   },
   {
     "key_n": "on_select",
     "key_r": true,
     "key_ty": "_st",
-    "key_s": "_tri",
-    "key_key": "_tri_gr",
+    "key_s": "_tri_actions",
+    "key_key": "_tri_action_n",
     "key_dis": "Trigger Select"
+  },
+
+  {
+    "key_n": "_tri_action_n",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "_tri_actions",
+    "key_key": "_tri_action_n",
+    "key_dis": "Action Name"
   },
   {
     "key_n": "on_drag",
     "key_r": true,
     "key_ty": "_st",
-    "key_s": "_tri",
-    "key_key": "_tri_gr",
+    "key_s": "_tri_actions",
+    "key_key": "_tri_action_n",
     "key_dis": "Trigger Select"
   },
   {
     "key_n": "on_submit",
     "key_r": true,
     "key_ty": "_st",
-    "key_s": "_tri",
-    "key_key": "_tri_gr",
+    "key_s": "_tri_actions",
+    "key_key": "_tri_action_n",
     "key_dis": "Trigger Submit"
   },
   {
@@ -593,8 +602,8 @@
   },
   {
     "key_n": "_spa_gr",
-    "key_r": true,
-    "key_ty": "gr_st",
+    "key_gr": true,
+    "key_ty": "_st",
     "key_s": "_tri",
     "key_key": "_tri_grs",
     "key_arr": true,
@@ -602,8 +611,8 @@
   },
   {
     "key_n": "_tri_grs",
-    "key_r": true,
-    "key_ty": "gr_st",
+    "key_gr": true,
+    "key_ty": "obj",
     "key_s": "_tri",
     "key_key": "_tri_grs",
     "key_arr": true,

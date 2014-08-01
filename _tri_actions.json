@@ -1,0 +1,23 @@
+[
+  {
+    "_tri_action_n": "go_sub_path"
+  },
+  {
+    "_tri_action_n": "submit_form"
+  },
+  {
+    "_tri_action_n": "submit_sub_first_n"
+  },
+  {
+    "_tri_action_n": "submit_sub_email"
+  },
+  {
+    "_tri_action_n": "modal"
+  },
+  {
+    "_tri_action_n": "change_local_sort"
+  },
+  {
+    "_tri_action_n": "sub_path_home"
+  }
+]

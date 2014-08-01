@@ -451,6 +451,21 @@
   },
 
   {
+    "_s_n_for": "_tri_actions",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "_tri_actions.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "_tri_action_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
     "_s_n_for": "_tri",
     "_s_n": "_s",
     "web_spec": true,
