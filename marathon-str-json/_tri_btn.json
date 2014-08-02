@@ -7,8 +7,9 @@
         "sort": 0
       }
     },
-    "_tri_dis_ty": "path",
-    "_tri_dis": "home",
+    "_tri_dis_comb": true,
+    "_tri_dis_key": "path_dis",
+    "_tri_dis": { "_s_n": "paths", "path_n": "home"},
     "_tri_ty": "_btn",
     "_tri_available": "all",
     "on_click": "go_sub_path"
@@ -21,8 +22,9 @@
         "sort": 1
       }
     },
-    "_tri_dis_ty": "path",
-    "_tri_dis": "about",
+    "_tri_dis_comb": true,
+    "_tri_dis_key": "path_dis",
+    "_tri_dis": { "_s_n": "paths", "path_n": "about"},
     "_tri_ty": "_btn",
     "_tri_available": "all",
     "on_click": "go_sub_path"
@@ -35,8 +37,9 @@
         "sort": 2
       }
     },
-    "_tri_dis_ty": "path",
-    "_tri_dis": "experiences",
+    "_tri_dis_comb": true,
+    "_tri_dis_key": "path_dis",
+    "_tri_dis": { "_s_n": "paths", "path_n": "experiences"},
     "_tri_ty": "_btn",
     "_tri_available": "all",
     "on_click": "go_sub_path"
@@ -49,8 +52,9 @@
         "sort": 0
       }
     },
-    "_tri_dis_ty": "path",
-    "_tri_dis": "img_location",
+    "_tri_dis_comb": true,
+    "_tri_dis_key": "path_dis",
+    "_tri_dis": { "_s_n": "paths", "path_n": "img_location"},
     "_tri_ty": "_btn",
     "_tri_available": "all",
     "on_click": "go_sub_path"
@@ -63,8 +67,9 @@
         "sort": 0
       }
     },
-    "_tri_dis_ty": "path",
-    "_tri_dis": "img_location_condo",
+    "_tri_dis_comb": true,
+    "_tri_dis_key": "path_dis",
+    "_tri_dis": { "_s_n": "paths", "path_n": "img_location_condo"},
     "_tri_ty": "_btn",
     "_tri_available": "all",
     "on_click": "go_sub_path"
@@ -77,8 +82,9 @@
         "sort": 1
       }
     },
-    "_tri_dis_ty": "path",
-    "_tri_dis": "img_location_office",
+    "_tri_dis_comb": true,
+    "_tri_dis_key": "path_dis",
+    "_tri_dis": { "_s_n": "paths", "path_n": "img_location_office"},
     "_tri_ty": "_btn",
     "_tri_available": "all",
     "on_click": "go_sub_path"
@@ -91,8 +97,9 @@
         "sort": 2
       }
     },
-    "_tri_dis_ty": "path",
-    "_tri_dis": "img_location_restaruant",
+    "_tri_dis_comb": true,
+    "_tri_dis_key": "path_dis",
+    "_tri_dis": { "_s_n": "paths", "path_n": "img_location_restaruant"},
     "_tri_ty": "_btn",
     "_tri_available": "all",
     "on_click": "go_sub_path"
@@ -105,8 +112,9 @@
         "sort": 3
       }
     },
-    "_tri_dis_ty": "path",
-    "_tri_dis": "img_location_mall",
+    "_tri_dis_comb": true,
+    "_tri_dis_key": "path_dis",
+    "_tri_dis": { "_s_n": "paths", "path_n": "img_location_mall"},
     "_tri_ty": "_btn",
     "_tri_available": "all",
     "on_click": "go_sub_path"
@@ -119,8 +127,9 @@
         "sort": 1
       }
     },
-    "_tri_dis_ty": "path",
-    "_tri_dis": "img_behind_the_scene",
+    "_tri_dis_comb": true,
+    "_tri_dis_key": "path_dis",
+    "_tri_dis": { "_s_n": "paths", "path_n": "img_behind_the_scene"},
     "_tri_ty": "_btn",
     "_tri_available": "all",
     "on_click": "go_sub_path"
@@ -133,8 +142,9 @@
         "sort": 3
       }
     },
-    "_tri_dis_ty": "path",
-    "_tri_dis": "contact",
+    "_tri_dis_comb": true,
+    "_tri_dis_key": "path_dis",
+    "_tri_dis": { "_s_n": "paths", "path_n": "contact"},
     "_tri_ty": "_btn",
     "_tri_available": "all",
     "on_click": "go_sub_path"
@@ -147,8 +157,8 @@
         "sort": 3
       }
     },
-    "_tri_dis_ty": "null",
-    "_tri_dis": "Submit",
+    "_tri_dis_key": "null",
+    "_tri_dis": { "dis": "Submit"},
     "_tri_ty": "_btn",
     "_tri_available": "all",
     "on_click": "submit_form"

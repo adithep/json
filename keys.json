@@ -507,6 +507,11 @@
     "key_dis": "Space for path"
   },
   {
+    "key_n": "_tri_dis_comb",
+    "key_ty": "_bl",
+    "key_dis": "Combine Key Display with Trigger"
+  },
+  {
     "key_n": "_tri_dis_key",
     "key_r": true,
     "key_ty": "_st",

@@ -6,8 +6,11 @@
         "sort": 0
       }
     },
-    "_tri_dis_ty": "current_path",
-    "_tri_dis": "current_path",
+    "_tri_dis_key": "path_dis",
+    "_tri_dis": {
+      "_id": "variable",
+      "_s_n": "paths"
+    },
     "_tri_ty": "banner",
     "_tri_available": "all",
     "on_click": "sub_path_home"
