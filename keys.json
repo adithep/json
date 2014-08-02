@@ -62,6 +62,7 @@
     "key_s": "cities",
     "key_key": "city_n",
     "key_arr": true,
+    "key_slave": "country_n",
     "key_dis": "City",
     "key_big": true
   },
