@@ -6,7 +6,6 @@
         "sort": 0
       }
     },
-    "_tri_dis_ty": "vdo_qry",
     "_tri_dis": "vdos",
     "_tri_ty": "video_gr",
     "_tri_available": "all",
@@ -20,12 +19,12 @@
         "sort": 0
       }
     },
-    "_tri_dis_key": "img_uuid",
+    "_tri_dis_key_arr": ["img_uuid"],
     "_tri_dis": {
       "_s_n": "img",
       "location_ty_n_arr": "Condo",
       "location_id_arr": {
-        "_$in": ["ELwKPCaJARdyYFkzq", "FuvWq2sGea3bxSeQM"]
+        "$in": ["ELwKPCaJARdyYFkzq", "FuvWq2sGea3bxSeQM"]
       }
     },
     "_tri_ty": "img_gr",
@@ -40,12 +39,12 @@
         "sort": 0
       }
     },
-    "_tri_dis_key": "img_uuid",
+    "_tri_dis_key_arr": ["img_uuid"],
     "_tri_dis": {
       "_s_n": "img",
       "location_ty_n_arr": "Restaruant",
       "location_id_arr": {
-        "_$in": [
+        "$in": [
           "EmCxofXsebsXQHJLY",
           "vFD4jn97ez4Em7Tr4",
           "5QSJaYoCNCarWrc7y",
@@ -66,12 +65,12 @@
         "sort": 0
       }
     },
-    "_tri_dis_key": "img_uuid",
+    "_tri_dis_key_arr": ["img_uuid"],
     "_tri_dis": {
       "_s_n": "img",
       "location_ty_n_arr": "Office",
       "location_id_arr": {
-        "_$in": [
+        "$in": [
           "FGADmqtBKdT5Amxyk",
           "jucfEpoga6MgdW2vT",
           "jdi37ZrXd6z9FDziX"
@@ -90,12 +89,12 @@
         "sort": 0
       }
     },
-    "_tri_dis_key": "img_uuid",
+    "_tri_dis_key_arr": ["img_uuid"],
     "_tri_dis": {
       "_s_n": "img",
       "location_ty_n_arr": "Mall",
       "location_id_arr": {
-        "_$in": [
+        "$in": [
           "D6D4RiZQZ7nQFqS27",
           "t6WFM8CCgGiD3TC5L",
           "oWZuGMmvMQttrMT2a"
@@ -114,16 +113,16 @@
         "sort": 0
       }
     },
-    "_tri_dis_key": "img_uuid",
+    "_tri_dis_key_arr": ["img_uuid"],
     "_tri_dis": {
       "_s_n": "img",
       "project_id_arr": {
-        "_$in": [
+        "$in": [
           "to_be_filled"
         ]
       },
       "img_ty_arr": {
-        "_$in": [
+        "$in": [
           "to_be_filled"
         ]
       }
@@ -140,7 +139,7 @@
         "sort": 0
       }
     },
-    "_tri_dis_key": "img_uuid",
+    "_tri_dis_key_arr": ["img_uuid"],
     "_tri_dis": {
       "_s_n": "img",
       "human_id_arr": "to_be_filled"
@@ -156,7 +155,7 @@
         "sort": 0
       }
     },
-    "_tri_dis_key": "img_uuid",
+    "_tri_dis_key_arr": ["img_uuid"],
     "_tri_dis": {
       "_s_n": "img",
       "human_id_arr": "to_be_filled"
@@ -172,7 +171,7 @@
         "sort": 0
       }
     },
-    "_tri_dis_key": "img_uuid",
+    "_tri_dis_key_arr": ["img_uuid"],
     "_tri_dis": {
       "_s_n": "img",
       "human_id_arr": "to_be_filled"

@@ -37,6 +37,7 @@
     "key_ty": "_st",
     "key_s": "cities",
     "key_key": "city_n",
+    "key_slave": "country_n",
     "key_dis": "Capital City"
   },
   {
@@ -207,7 +208,7 @@
     "key_ty": "_st",
     "key_s": "cities",
     "key_key": "city_n",
-    "key_slave": ["_adr_main_country_n"],
+    "key_slave": "_adr_main_country_n",
     "key_dis": "Mobile"
   },
   {
@@ -216,7 +217,6 @@
     "key_ty": "_st",
     "key_s": "countries",
     "key_key": "country_n",
-    "key_slave": ["_adr_main_city_n"],
     "key_dis": "Mobile"
   },
   {
@@ -396,7 +396,11 @@
   },
   {
     "key_n": "location_n",
+    "key_r": true,
     "key_ty": "_st",
+    "key_slave": "location_id",
+    "key_s": "locations",
+    "key_key": "location_n",
     "key_arr": true,
     "key_dis": "Location Name"
   },
@@ -674,11 +678,13 @@
   },
   {
     "key_n": "_tri_dis",
-    "key_r": true,
-    "key_ty": "_st",
-    "key_s": "keys",
-    "key_key": "key_n",
+    "key_ty": "search",
     "key_dis": "Trigger Display"
+  },
+  {
+    "key_n": "_tri_dis_ldata",
+    "key_ty": "_bl",
+    "key_dis": "Trigger Display requires LDATA"
   },
   {
     "key_n": "_tri_gr",

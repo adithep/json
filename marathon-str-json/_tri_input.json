@@ -6,7 +6,6 @@
         "sort": 0
       }
     },
-    "_tri_dis_comb": true,
     "_tri_dis_key": "key_dis",
     "_tri_dis": {
       "_s_n": "keys",
@@ -24,7 +23,6 @@
         "sort": 1
       }
     },
-    "_tri_dis_comb": true,
     "_tri_dis_key": "key_dis",
     "_tri_dis": {
       "_s_n": "keys",

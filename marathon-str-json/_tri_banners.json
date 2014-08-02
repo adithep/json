@@ -6,7 +6,8 @@
         "sort": 0
       }
     },
-    "_tri_dis_key": "path_dis",
+    "_tri_dis_ldata": true,
+    "_tri_dis_key_arr": ["path_dis"],
     "_tri_dis": {
       "_id": "variable",
       "_s_n": "paths"

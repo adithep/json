@@ -7,7 +7,7 @@
       }
     },
     "_tri_s_n": "companies",
-    "_tri_dis_key_arr": ["company_n", "email.main_arr", "city_n", "country_n"],
+    "_tri_dis_key_arr": ["company_n", "email_main_arr", "_adr_main_city_n", "_adr_main_country_n"],
     "_tri_dis": {
       "_s_n": "companies",
       "_id": "kbq2Wtg6PabRrPzob"
@@ -25,12 +25,12 @@
     },
     "_tri_s_n": "humans",
     "_tri_dis_key_arr": [
-      "human_n.title",
-      "human_n.first",
-      "human_n.middle",
-      "human_n.last",
-      "email.main_arr",
-      "mobile.main_arr"
+      "title_n",
+      "first_n",
+      "middle_n",
+      "last_n",
+      "email_main_arr",
+      "mobile_main_arr"
     ],
     "_tri_dis": {
       "_s_n": "humans",
@@ -49,12 +49,12 @@
     },
     "_tri_s_n": "humans",
     "_tri_dis_key_arr": [
-      "human_n.title",
-      "human_n.first",
-      "human_n.middle",
-      "human_n.last",
-      "email.main_arr",
-      "mobile.main_arr"
+      "title_n",
+      "first_n",
+      "middle_n",
+      "last_n",
+      "email_main_arr",
+      "mobile_main_arr"
     ],
     "_tri_dis": {
       "_s_n": "humans",
@@ -73,12 +73,12 @@
     },
     "_tri_s_n": "humans",
     "_tri_dis_key_arr": [
-      "human_n.title",
-      "human_n.first",
-      "human_n.middle",
-      "human_n.last",
-      "email.main_arr",
-      "mobile.main_arr"
+      "title_n",
+      "first_n",
+      "middle_n",
+      "last_n",
+      "email_main_arr",
+      "mobile_main_arr"
     ],
     "_tri_dis": {
       "_s_n": "humans",
