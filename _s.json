@@ -69,8 +69,8 @@
       "_id",
       "_s_n",
       "_spa",
-      "_spa_tem",
-      "_spa_gr_arr",
+      "tem_ty_n",
+      "_spa_ctl_arr",
       "_dt",
       "_usr"
     ]
@@ -452,6 +452,72 @@
   },
 
   {
+    "_s_n_for": "tem_ty",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "tem_ty.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "tem_ty_n",
+      "tem_for_arr",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "templates",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "templates.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "tem_ty_n",
+      "tem_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "looks",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "looks.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "look_n",
+      "tem_n_arr",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "def_tem",
+    "_s_n": "_s",
+    "web_spec": true,
+    "json": [
+      {"_n": "main", "path": "def_tem.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "tem_ty_n",
+      "tem_n",
+      "look_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
     "_s_n_for": "_tri_actions",
     "_s_n": "_s",
     "json": [
@@ -467,11 +533,11 @@
   },
 
   {
-    "_s_n_for": "_crl",
+    "_s_n_for": "_ctl",
     "_s_n": "_s",
     "web_spec": true,
     "json": [
-      {"_n": "_tri_btn", "path": "_ctl.json"}
+      {"_n": "main", "path": "_ctl.json"}
     ],
     "_s_keys": [
       "_id",
@@ -480,12 +546,16 @@
       "data",
       "data_dis_key_arr",
       "data_href",
+      "data_sub_href",
       "tem_ty_n",
       "sort",
       "data_sort_key",
-      "data_sort",
+      "data_sort_arr",
       "data_func",
+      "slave_key",
+      "slave_data",
       "evts",
+      "user",
       "_dt",
       "_usr"
     ]

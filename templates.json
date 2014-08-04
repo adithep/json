@@ -1,18 +1,18 @@
 [
   {
     "tem_n": "main_nav",
-    "tem_ty_n": "main_nav",
+    "tem_ty_n": "main_nav"
   },
   {
     "tem_n": "nav_title",
-    "tem_ty_n": "nav_title",
+    "tem_ty_n": "nav_title"
   },
   {
     "tem_n": "nav_btn_list",
-    "tem_ty_n": "nav_btn_list",
+    "tem_ty_n": "nav_btn_list"
   },
   {
     "tem_n": "nav_user",
-    "tem_ty_n": "nav_user",
+    "tem_ty_n": "nav_user"
   }
 ]

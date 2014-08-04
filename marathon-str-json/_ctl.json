@@ -1,30 +1,30 @@
 [
   {
-    "_ctl_n" "main_nav_title"
+    "_ctl_n": "main_nav_title",
     "data": {
       "_s_n": "paths",
       "path_n": "blank"
     },
     "data_dis_key_arr": ["path_dis"],
-    "data_href": "root",
+    "data_href": "path_n",
     "tem_ty_n": "nav_title",
     "sort": 0
   },
   {
-    "_ctl_n" "main_nav_btn"
+    "_ctl_n": "main_nav_btn",
     "data": {
       "_s_n": "paths",
       "path_n": {"$in": ["home", "about", "experiences", "contact"]}
     },
     "data_sort_key": "path_n",
-    "data_sort": ["home", "about", "experiences", "contact"],
+    "data_sort_arr": ["home", "about", "experiences", "contact"],
     "data_dis_key_arr": ["path_dis"],
     "data_href": "path_n",
     "tem_ty_n": "nav_btn_list",
     "sort": 1
   },
   {
-    "_ctl_n" "main_nav_user"
+    "_ctl_n": "main_nav_user",
     "data_func": "current_user",
     "data_dis_key_arr": ["userName"],
     "tem_ty_n": "nav_user",
@@ -56,7 +56,7 @@
       "key_n": {"$in": ["first_n", "email_main_arr"]}
     },
     "data_sort_key": "key_n",
-    "data_sort": ["first_n", "email_main_arr"],
+    "data_sort_arr": ["first_n", "email_main_arr"],
     "tem_ty_n": "input",
     "evts": [{"evt": "submit_sub_human"}],
     "sort": 1
@@ -66,13 +66,36 @@
     "data_dis_key_arr": ["path_dis"],
     "data": { "_s_n": "paths", "path_n": {"$in": ["img_location", "img_behind_the_scene"]}},
     "data_sort_key": "path_n",
-    "data_sort": ["img_location", "img_behind_the_scene"],
+    "data_sort_arr": ["img_location", "img_behind_the_scene"],
     "tem_ty_n": "_btn",
     "data_sub_href": "path_n",
     "sort": 0
   },
   {
-    "_ctl_n": "img_gr_behind_the_scene",
+    "_ctl_n": "img_location_gr_btn_gr",
+    "data_dis_key_arr": ["path_dis"],
+    "data": {
+      "_s_n": "paths",
+      "path_n": {"$in": [
+        "img_location_restaruant",
+        "img_location_condo",
+        "img_location_mall",
+        "img_location_office"
+      ]}
+    },
+    "data_sort_key": "path_n",
+    "data_sort_arr": [
+      "img_location_restaruant",
+      "img_location_condo",
+      "img_location_mall",
+      "img_location_office"
+    ],
+    "tem_ty_n": "_btn",
+    "data_sub_href": "path_n",
+    "sort": 0
+  },
+  {
+    "_ctl_n": "img_gr_ty_behind_the_scene",
     "data_dis_key_arr": ["img_uuid"],
     "data": {
       "_s_n": "img",
@@ -88,7 +111,77 @@
     "sort": 0
   },
   {
-    "_tri_n": "location_manager_info_gr",
+    "_ctl_n": "img_gr_location_ty_restaruant",
+    "data_dis_key_arr": ["img_uuid"],
+    "data": {
+      "_s_n": "img",
+      "location_ty_n_arr": "Restaruant",
+      "location_id_arr": {
+        "$in": [
+          "EmCxofXsebsXQHJLY",
+          "vFD4jn97ez4Em7Tr4",
+          "5QSJaYoCNCarWrc7y",
+          "KMSLHowfDHZqNtGe7",
+          "NpTRr8hX5ueask3mW"
+        ]
+      }
+    },
+    "tem_ty_n": "img_gr",
+    "evts": [{"evt": "change_local_sort"}],
+    "sort": 0
+  },
+  {
+    "_ctl_n": "img_gr_location_ty_condo",
+    "data_dis_key_arr": ["img_uuid"],
+    "data": {
+      "_s_n": "img",
+      "location_ty_n_arr": "Condo",
+      "location_id_arr": {
+        "$in": ["ELwKPCaJARdyYFkzq", "FuvWq2sGea3bxSeQM"]
+      }
+    },
+    "tem_ty_n": "img_gr",
+    "evts": [{"evt": "change_local_sort"}],
+    "sort": 0
+  },
+  {
+    "_ctl_n": "img_gr_location_ty_office",
+    "data_dis_key_arr": ["img_uuid"],
+    "data": {
+      "_s_n": "img",
+      "location_ty_n_arr": "Office",
+      "location_id_arr": {
+        "$in": [
+          "FGADmqtBKdT5Amxyk",
+          "jucfEpoga6MgdW2vT",
+          "jdi37ZrXd6z9FDziX"
+        ]
+      }
+    },
+    "tem_ty_n": "img_gr",
+    "evts": [{"evt": "change_local_sort"}],
+    "sort": 0
+  },
+  {
+    "_ctl_n": "img_gr_location_ty_mall",
+    "data_dis_key_arr": ["img_uuid"],
+    "data": {
+      "_s_n": "img",
+      "location_ty_n_arr": "Mall",
+      "location_id_arr": {
+        "$in": [
+          "D6D4RiZQZ7nQFqS27",
+          "t6WFM8CCgGiD3TC5L",
+          "oWZuGMmvMQttrMT2a"
+        ]
+      }
+    },
+    "tem_ty_n": "img_gr",
+    "evts": [{"evt": "change_local_sort"}],
+    "sort": 0
+  },
+  {
+    "_ctl_n": "marathon_team_info",
     "data_dis_key_arr": [
       "title_n",
       "first_n",
@@ -100,9 +193,25 @@
     ],
     "data": {
       "_s_n": {"$in": ["humans", "img"]},
-      "_id": "to_be_filled",
-      "img_uuid": "to_be_filled"
+      "_id": {"$in": ["to_be_filled"]}
+    },
+    "slave_key": "_id",
+    "slave_data": {
+      "_id": {"_s_n": "img", "img_uuid": "to_be_filled"}
+    },
+    "tem_ty_n": "info_with_slave_img"
+  },
+
+  {
+    "_ctl_n": "approach_gr",
+    "data_dis_key_arr": [
+      "approach_n",
+      "approach_description",
+      "img_uuid"
+    ],
+    "data": {
+      "_s_n": "approaches"
     },
     "tem_ty_n": "info_with_img"
-  },
+  }
 ]

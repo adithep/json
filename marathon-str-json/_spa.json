@@ -91,15 +91,13 @@
     "_spa": "our_team",
     "tem_ty_n": "humans_with_img",
     "_spa_ctl_arr": [
-      "location_manager_info_gr",
-      "casting_director_info_gr",
-      "art_director_info_gr"
+      "marathon_team_info"
     ]
   },
 
   {
     "_spa": "our_approach",
-    "tem_ty_n": "our_approach",
+    "tem_ty_n": "approach_gr",
     "_spa_ctl_arr": [
       "approach_gr"
     ]

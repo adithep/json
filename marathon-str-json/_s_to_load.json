@@ -7,6 +7,9 @@
   "companies": ["new_company"],
   "locations": ["main"],
   "countries": ["main"],
-  "_tri_actions": ["main"],
-  "_tri": ["_tri_input", "_tri_btn", "_tri_banners", "_tri_media", "_tri_s_docs"]
+  "templates": ["main"],
+  "looks": ["main"],
+  "tem_ty": ["main"],
+  "def_tem": ["main"],
+  "_ctl": ["main"]
 }

@@ -4,7 +4,43 @@
     "tem_for_arr": ["_spa"]
   },
   {
+    "tem_ty_n": "main_intro",
+    "tem_for_arr": ["_spa"]
+  },
+  {
+    "tem_ty_n": "sub_path",
+    "tem_for_arr": ["_spa"]
+  },
+  {
+    "tem_ty_n": "footer",
+    "tem_for_arr": ["_spa"]
+  },
+  {
+    "tem_ty_n": "_btn_gr",
+    "tem_for_arr": ["_spa"]
+  },
+  {
+    "tem_ty_n": "img_gr",
+    "tem_for_arr": ["_spa"]
+  },
+  {
+    "tem_ty_n": "humans_with_img",
+    "tem_for_arr": ["_spa"]
+  },
+  {
+    "tem_ty_n": "approach_gr",
+    "tem_for_arr": ["_spa"]
+  },
+  {
+    "tem_ty_n": "contact_us",
+    "tem_for_arr": ["_spa"]
+  },
+  {
     "tem_ty_n": "nav_title",
+    "tem_for_arr": ["_ctl"]
+  },
+  {
+    "tem_ty_n": "banner",
     "tem_for_arr": ["_ctl"]
   },
   {
@@ -13,6 +49,26 @@
   },
   {
     "tem_ty_n": "nav_user",
+    "tem_for_arr": ["_ctl"]
+  },
+  {
+    "tem_ty_n": "info_with_img",
+    "tem_for_arr": ["_ctl"]
+  },
+  {
+    "tem_ty_n": "info_with_slave_img",
+    "tem_for_arr": ["_ctl"]
+  },
+  {
+    "tem_ty_n": "input",
+    "tem_for_arr": ["_ctl"]
+  },
+  {
+    "tem_ty_n": "_btn",
+    "tem_for_arr": ["_ctl"]
+  },
+  {
+    "tem_ty_n": "footer_about",
     "tem_for_arr": ["_ctl"]
   }
 ]

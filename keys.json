@@ -13,6 +13,19 @@
     "key_dis": "Approach Name"
   },
   {
+    "key_n": "key_n",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "keys",
+    "key_key": "key_n",
+    "key_dis": "Key Name"
+  },
+  {
+    "key_n": "key_dis",
+    "key_ty": "_st",
+    "key_dis": "Key Display"
+  },
+  {
     "key_n": "approach_description",
     "key_ty": "_st",
     "key_dis": "Approach Description"
@@ -25,6 +38,32 @@
     "key_key": "country_n",
     "key_arr": true,
     "key_dis": "Border"
+  },
+  {
+    "key_n": "tem_for",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "_s",
+    "key_key": "_s_n_for",
+    "key_arr": true,
+    "key_dis": "Schema which template can be used for"
+  },
+  {
+    "key_n": "tem_n",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "templates",
+    "key_key": "tem_n",
+    "key_arr": true,
+    "key_dis": "Template Name"
+  },
+  {
+    "key_n": "look_n",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "looks",
+    "key_key": "look_n",
+    "key_dis": "Look Name"
   },
   {
     "key_n": "calling_c",
@@ -532,7 +571,10 @@
   },
   {
     "key_n": "path_n",
+    "key_r": true,
     "key_ty": "_st",
+    "key_s": "paths",
+    "key_key": "path_n",
     "key_dis": "Path Name"
   },
   {
@@ -611,11 +653,11 @@
     "key_dis": "Space Name"
   },
   {
-    "key_n": "_spa_gr",
-    "key_gr": true,
+    "key_n": "_spa_ctl",
+    "key_r": true,
     "key_ty": "_st",
-    "key_s": "_tri",
-    "key_key": "_tri_grs",
+    "key_s": "_ctl",
+    "key_key": "_ctl_n",
     "key_arr": true,
     "key_dis": "Groups for path"
   },
@@ -681,6 +723,91 @@
     "key_n": "_tri_dis",
     "key_ty": "search",
     "key_dis": "Trigger Display"
+  },
+  {
+    "key_n": "data",
+    "key_ty": "ejson",
+    "key_dis": "Data to earch in EJSON form"
+  },
+  {
+    "key_n": "slave_data",
+    "key_ty": "ejson",
+    "key_dis": "Data to earch in EJSON form for slave of _ctl"
+  },
+  {
+    "key_n": "evts",
+    "key_ty": "evts",
+    "key_dis": "Events"
+  },
+  {
+    "key_n": "data_dis_key",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "keys",
+    "key_key": "key_n",
+    "key_arr": true,
+    "key_dis": "Keys to display from Data"
+  },
+  {
+    "key_n": "slave_key",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "keys",
+    "key_key": "key_n",
+    "key_dis": "Keys to bind slave to"
+  },
+  {
+    "key_n": "data_sort_key",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "keys",
+    "key_key": "key_n",
+    "key_dis": "Keys to sort from Data"
+  },
+  {
+    "key_n": "data_sort",
+    "key_gr": true,
+    "key_ty": "_st",
+    "key_gr_key": "data_sort_key",
+    "key_arr": true,
+    "key_dis": "Pattern to sort from Data"
+  },
+  {
+    "key_n": "data_func",
+    "key_ty": "_st",
+    "key_dis": "Function to call to get Data"
+  },
+  {
+    "key_n": "tem_ty_n",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "tem_ty",
+    "key_key": "tem_ty_n",
+    "key_dis": "Template Type Name"
+  },
+  {
+    "key_n": "data_href",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "keys",
+    "key_key": "key_n",
+    "key_dis": "Href key form Data"
+  },
+  {
+    "key_n": "data_sub_href",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "keys",
+    "key_key": "key_n",
+    "key_dis": "Sub Href key form Data"
+  },
+  {
+    "key_n": "_ctl_n",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "_ctl",
+    "key_key": "_ctl_n",
+    "key_dis": "Data to earch in EJSON form"
   },
   {
     "key_n": "_tri_dis_ldata",
@@ -749,6 +876,11 @@
     "key_n": "_usr",
     "key_ty": "user",
     "key_dis": "User Name"
+  },
+  {
+    "key_n": "user",
+    "key_ty": "user",
+    "key_dis": "User Name to use to load pref _ctl"
   },
   {
     "key_n": "_v",
