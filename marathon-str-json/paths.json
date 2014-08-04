@@ -1,6 +1,7 @@
 [
   {
     "path_n": "blank",
+    "path_dis": "marathon",
     "path_spa_arr": [
       "main_nav",
       "main_intro",
@@ -13,7 +14,6 @@
     "path_n": "home",
     "path_dis": "Home",
     "path_spa_arr": [
-      "reels",
       "sub_path"
     ]
   },

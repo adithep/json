@@ -1,0 +1,18 @@
+[
+  {
+    "tem_ty_n": "main_nav",
+    "tem_for_arr": ["_spa"]
+  },
+  {
+    "tem_ty_n": "nav_title",
+    "tem_for_arr": ["_ctl"]
+  },
+  {
+    "tem_ty_n": "nav_btn_list",
+    "tem_for_arr": ["_ctl"]
+  },
+  {
+    "tem_ty_n": "nav_user",
+    "tem_for_arr": ["_ctl"]
+  }
+]

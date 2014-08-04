@@ -1,0 +1,108 @@
+[
+  {
+    "_ctl_n" "main_nav_title"
+    "data": {
+      "_s_n": "paths",
+      "path_n": "blank"
+    },
+    "data_dis_key_arr": ["path_dis"],
+    "data_href": "root",
+    "tem_ty_n": "nav_title",
+    "sort": 0
+  },
+  {
+    "_ctl_n" "main_nav_btn"
+    "data": {
+      "_s_n": "paths",
+      "path_n": {"$in": ["home", "about", "experiences", "contact"]}
+    },
+    "data_sort_key": "path_n",
+    "data_sort": ["home", "about", "experiences", "contact"],
+    "data_dis_key_arr": ["path_dis"],
+    "data_href": "path_n",
+    "tem_ty_n": "nav_btn_list",
+    "sort": 1
+  },
+  {
+    "_ctl_n" "main_nav_user"
+    "data_func": "current_user",
+    "data_dis_key_arr": ["userName"],
+    "tem_ty_n": "nav_user",
+    "evts": [{"evt": "logout"}],
+    "sort": 2
+  },
+  {
+    "_ctl_n": "secondary_path_link",
+    "data_dis_key_arr": ["path_dis"],
+    "data_func": "current_path",
+    "tem_ty_n": "banner",
+    "sort": 0
+  },
+  {
+    "_ctl_n": "company_about",
+    "data_dis_key_arr": ["company_n", "email_main_arr", "_adr_main_city_n", "_adr_main_country_n"],
+    "data": {
+      "_s_n": "companies",
+      "_id": "kbq2Wtg6PabRrPzob"
+    },
+    "tem_ty_n": "footer_about",
+    "sort": 0
+  },
+  {
+    "_ctl_n": "subscription_form",
+    "data_dis_key_arr": ["key_dis"],
+    "data": {
+      "_s_n": "keys",
+      "key_n": {"$in": ["first_n", "email_main_arr"]}
+    },
+    "data_sort_key": "key_n",
+    "data_sort": ["first_n", "email_main_arr"],
+    "tem_ty_n": "input",
+    "evts": [{"evt": "submit_sub_human"}],
+    "sort": 1
+  },
+  {
+    "_ctl_n": "img_gr_btn_gr",
+    "data_dis_key_arr": ["path_dis"],
+    "data": { "_s_n": "paths", "path_n": {"$in": ["img_location", "img_behind_the_scene"]}},
+    "data_sort_key": "path_n",
+    "data_sort": ["img_location", "img_behind_the_scene"],
+    "tem_ty_n": "_btn",
+    "data_sub_href": "path_n",
+    "sort": 0
+  },
+  {
+    "_ctl_n": "img_gr_behind_the_scene",
+    "data_dis_key_arr": ["img_uuid"],
+    "data": {
+      "_s_n": "img",
+      "project_id_arr": {
+        "$in": [
+          "to_be_filled"
+        ]
+      },
+      "img_ty_arr": "behind_the_scene"
+    },
+    "tem_ty_n": "img_gr",
+    "evts": [{"evt": "change_local_sort"}],
+    "sort": 0
+  },
+  {
+    "_tri_n": "location_manager_info_gr",
+    "data_dis_key_arr": [
+      "title_n",
+      "first_n",
+      "middle_n",
+      "last_n",
+      "email_main_arr",
+      "mobile_main_arr",
+      "img_uuid"
+    ],
+    "data": {
+      "_s_n": {"$in": ["humans", "img"]},
+      "_id": "to_be_filled",
+      "img_uuid": "to_be_filled"
+    },
+    "tem_ty_n": "info_with_img"
+  },
+]
