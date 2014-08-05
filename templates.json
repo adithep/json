@@ -5,14 +5,31 @@
   },
   {
     "tem_n": "nav_title",
-    "tem_ty_n": "nav_title"
+    "tem_ty_n": "nav_title",
+    "sub_tem": "h1_title"
   },
   {
     "tem_n": "nav_btn_list",
-    "tem_ty_n": "nav_btn_list"
+    "tem_ty_n": "nav_btn_list",
+    "sub_tem": "_btn"
   },
   {
     "tem_n": "nav_user",
-    "tem_ty_n": "nav_user"
+    "tem_ty_n": "nav_user",
+    "sub_tem": "user_n"
+  },
+  {
+    "tem_n": "footer",
+    "tem_ty_n": "footer"
+  },
+  {
+    "tem_n": "footer_about",
+    "tem_ty_n": "footer_about",
+    "sub_tem": "info"
+  },
+  {
+    "tem_n": "input",
+    "tem_ty_n": "input",
+    "sub_tem": "input_el"
   }
 ]

@@ -1,6 +1,5 @@
 {
   "paths": ["main"],
-  "_spa": ["main"],
   "img": ["main"],
   "approaches": ["main"],
   "humans": ["core_team"],
@@ -9,7 +8,6 @@
   "countries": ["main"],
   "templates": ["main"],
   "looks": ["main"],
-  "tem_ty": ["main"],
   "def_tem": ["main"],
   "_ctl": ["main"]
 }

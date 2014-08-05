@@ -26,6 +26,11 @@
     "key_dis": "Key Display"
   },
   {
+    "key_n": "sub_tem",
+    "key_ty": "_st",
+    "key_dis": "Sub Template"
+  },
+  {
     "key_n": "approach_description",
     "key_ty": "_st",
     "key_dis": "Approach Description"
@@ -545,10 +550,10 @@
     "key_n": "path_spa",
     "key_r": true,
     "key_ty": "_st",
-    "key_s": "_spa",
-    "key_key": "_spa",
+    "key_s": "_ctl",
+    "key_key": "_ctl_n",
     "key_arr": true,
-    "key_dis": "Space for path"
+    "key_dis": "Control for path"
   },
   {
     "key_n": "_tri_dis_comb",

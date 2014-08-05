@@ -1,5 +1,9 @@
 [
   {
+    "tem_ty_n": "root",
+    "look_n": "mara"
+  },
+  {
     "tem_ty_n": "main_nav",
     "tem_n": "main_nav",
     "look_n": "mara"
@@ -17,6 +21,21 @@
   {
     "tem_ty_n": "nav_user",
     "tem_n": "nav_user",
+    "look_n": "mara"
+  },
+  {
+    "tem_n": "footer",
+    "tem_ty_n": "footer",
+    "look_n": "mara"
+  },
+  {
+    "tem_n": "footer_about",
+    "tem_ty_n": "footer_about",
+    "look_n": "mara"
+  },
+  {
+    "tem_n": "input",
+    "tem_ty_n": "input",
     "look_n": "mara"
   }
 ]

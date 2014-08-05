@@ -1,4 +1,45 @@
 [
+
+  {
+    "_ctl_n": "main_nav",
+    "data": {
+      "_s_n": "_ctl",
+      "_ctl_n": {"$in": ["main_nav_title", "main_nav_btn"]}
+    },
+    "data_dis_key_arr": ["path_dis"],
+    "data_sort_key": "_ctl_n",
+    "data_sort_arr": ["main_nav_title", "main_nav_btn"],
+    "tem_ty_n": "main_nav"
+  },
+
+  {
+    "_ctl_n": "sub_path",
+    "tem_ty_n": "sub_path"
+  },
+
+  {
+    "_ctl_n": "footer",
+    "data": {
+      "_s_n": "_ctl",
+      "_ctl_n": {"$in": ["company_about", "subscription_form"]}
+    },
+    "data_dis_key_arr": ["path_dis"],
+    "data_sort_key": "_ctl_n",
+    "data_sort_arr": ["company_about", "subscription_form"],
+    "tem_ty_n": "footer"
+  },
+
+  {
+    "_ctl_n": "contact_us",
+    "data": {
+      "_s_n": "_ctl",
+      "_ctl_n": {"$in": ["company_about", "subscription_form"]}
+    },
+    "data_dis_key_arr": ["path_dis"],
+    "data_sort_key": "_ctl_n",
+    "data_sort_arr": ["company_about", "subscription_form"],
+    "tem_ty_n": "contact_us"
+  },
   {
     "_ctl_n": "main_nav_title",
     "data": {
@@ -26,7 +67,7 @@
   {
     "_ctl_n": "main_nav_user",
     "data_func": "current_user",
-    "data_dis_key_arr": ["userName"],
+    "data_dis_key_arr": ["username"],
     "tem_ty_n": "nav_user",
     "evts": [{"evt": "logout"}],
     "sort": 2
