@@ -1,35 +1,44 @@
 [
   {
-    "tem_n": "main_nav",
+    "tem_comp": [{"tag": "nav", "class": "main_nav", "tem_comp": [{"tag": "div", "class": "container"}]}],
     "tem_ty_n": "main_nav"
   },
   {
-    "tem_n": "nav_title",
     "tem_ty_n": "nav_title",
-    "sub_tem": "h1_title"
+    "tem_comp": [{"tag": "div", "class": "nav_title"}],
+    "doc_comp": "h1_title"
   },
   {
-    "tem_n": "nav_btn_list",
+    "tem_ty_n": "h1_title",
+    "tem_comp": [{"tag": "h1", "class": "title_h1"}]
+  },
+  {
     "tem_ty_n": "nav_btn_list",
-    "sub_tem": "_btn"
+    "tem_comp": [{"tag": "div", "class": "nav_btn_list"}],
+    "doc_comp": "span_btn"
   },
   {
-    "tem_n": "nav_user",
-    "tem_ty_n": "nav_user",
-    "sub_tem": "user_n"
+    "tem_ty_n": "span_btn",
+    "tem_comp": [{"tag": "span", "class": "_btn"}]
   },
   {
-    "tem_n": "footer",
+    "tem_ty_n": "nav_user"
+  },
+  {
+    "tem_comp": [{"tag": "div", "class": "footer_div"}],
     "tem_ty_n": "footer"
   },
   {
-    "tem_n": "footer_about",
     "tem_ty_n": "footer_about",
-    "sub_tem": "info"
+    "tem_comp": [{"tag": "div", "class": "footer_about"}],
+    "doc_comp": "key_dis"
   },
   {
-    "tem_n": "input",
+    "tem_ty_n": "key_dis",
+    "tem_comp": [{"tag": "span", "class": "key_dis"}, {"tag": "span", "class": "doc_dis"}]
+  },
+  {
     "tem_ty_n": "input",
-    "sub_tem": "input_el"
+    "tem_comp": [{"tag": "div", "class": "input_div"}]
   }
 ]

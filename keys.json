@@ -21,6 +21,19 @@
     "key_dis": "Key Name"
   },
   {
+    "key_n": "doc_comp",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "templates",
+    "key_key": "tem_ty_n",
+    "key_dis": "Document Composition"
+  },
+  {
+    "key_n": "tem_comp",
+    "key_ty": "htag",
+    "key_dis": "Template Composition"
+  },
+  {
     "key_n": "key_dis",
     "key_ty": "_st",
     "key_dis": "Key Display"
@@ -788,6 +801,7 @@
     "key_ty": "_st",
     "key_s": "tem_ty",
     "key_key": "tem_ty_n",
+    "key_arr": true,
     "key_dis": "Template Type Name"
   },
   {
