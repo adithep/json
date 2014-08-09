@@ -6,10 +6,10 @@
   {
     "tem_ty_n": "nav_title",
     "tem_comp": [{"tag": "div", "class": "nav_title"}],
-    "doc_comp": "h1_title"
+    "doc_comp": "title_h1"
   },
   {
-    "tem_ty_n": "h1_title",
+    "tem_ty_n": "title_h1",
     "tem_comp": [{"tag": "h1", "class": "title_h1"}]
   },
   {
@@ -40,5 +40,13 @@
   {
     "tem_ty_n": "input",
     "tem_comp": [{"tag": "div", "class": "input_div"}]
+  },
+  {
+    "tem_ty_n": "banner",
+    "tem_comp": [{"tag": "div", "class": "banner"}]
+  },
+  {
+    "tem_ty_n": "sub_path",
+    "tem_comp": [{"tag": "div", "class": "sub_path"}]
   }
 ]
