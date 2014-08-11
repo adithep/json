@@ -544,6 +544,7 @@
       "_id",
       "_s_n",
       "_ctl_n",
+      "dis_key_dis",
       "data",
       "data_dis_key_arr",
       "data_href",

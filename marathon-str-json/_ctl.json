@@ -86,6 +86,7 @@
       "_s_n": "companies",
       "_id": "kbq2Wtg6PabRrPzob"
     },
+    "dis_key_dis": true,
     "tem_ty_n": "footer_about",
     "sort": 0
   },
@@ -108,7 +109,7 @@
     "data": { "_s_n": "paths", "path_n": {"$in": ["img_location", "img_behind_the_scene"]}},
     "data_sort_key": "path_n",
     "data_sort_arr": ["img_location", "img_behind_the_scene"],
-    "tem_ty_n": "_btn",
+    "tem_ty_n": "_btn_gr",
     "data_sub_href": "path_n",
     "sort": 0
   },
@@ -131,7 +132,7 @@
       "img_location_mall",
       "img_location_office"
     ],
-    "tem_ty_n": "_btn",
+    "tem_ty_n": "_btn_gr",
     "data_sub_href": "path_n",
     "sort": 0
   },

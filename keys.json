@@ -5,6 +5,11 @@
     "key_dis": "Alternate Spelling"
   },
   {
+    "key_n": "dis_key_dis",
+    "key_ty": "_bl",
+    "key_dis": "Dsiplay the key Display"
+  },
+  {
     "key_n": "approach_n",
     "key_r": true,
     "key_ty": "_st",
@@ -143,7 +148,7 @@
   {
     "key_n": "company_n",
     "key_ty": "_st",
-    "key_dis": "Company Name"
+    "key_dis": "Company"
   },
   {
     "key_n": "continent_c",
@@ -267,7 +272,7 @@
     "key_s": "cities",
     "key_key": "city_n",
     "key_slave": "_adr_main_country_n",
-    "key_dis": "Mobile"
+    "key_dis": "City"
   },
   {
     "key_n": "_adr_main_country_n",
@@ -275,7 +280,7 @@
     "key_ty": "_st",
     "key_s": "countries",
     "key_key": "country_n",
-    "key_dis": "Mobile"
+    "key_dis": "Country"
   },
   {
     "key_n": "mobile_main",

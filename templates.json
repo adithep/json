@@ -18,6 +18,20 @@
     "doc_comp": "span_btn"
   },
   {
+    "tem_ty_n": "_btn_gr",
+    "tem_comp": [{"tag": "div", "class": "_btn_gr", "tem_comp": [{"tag": "div", "class": "container"}]}],
+    "doc_comp": "span_btn"
+  },
+  {
+    "tem_ty_n": "img_gr",
+    "tem_comp": [{"tag": "div", "class": "img_gr", "tem_comp": [{"tag": "div", "class": "container"}]}],
+    "doc_comp": "img"
+  },
+  {
+    "tem_ty_n": "img",
+    "tem_comp": [{"tag": "img", "class": "img"}]
+  },
+  {
     "tem_ty_n": "span_btn",
     "tem_comp": [{"tag": "span", "class": "_btn"}]
   },
@@ -34,8 +48,13 @@
     "doc_comp": "key_dis"
   },
   {
+    "tem_ty_n": "contact_us",
+    "tem_comp": [{"tag": "div", "class": "contact_us"}],
+    "doc_comp": "key_dis"
+  },
+  {
     "tem_ty_n": "key_dis",
-    "tem_comp": [{"tag": "span", "class": "key_dis"}, {"tag": "span", "class": "doc_dis"}]
+    "tem_comp": [{"tag": "div", "class": "doc_div", "tem_comp": [{"tag": "span", "class": "doc_dis"}]}]
   },
   {
     "tem_ty_n": "input",
@@ -44,9 +63,5 @@
   {
     "tem_ty_n": "banner",
     "tem_comp": [{"tag": "div", "class": "banner"}]
-  },
-  {
-    "tem_ty_n": "sub_path",
-    "tem_comp": [{"tag": "div", "class": "sub_path"}]
   }
 ]
