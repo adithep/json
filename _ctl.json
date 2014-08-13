@@ -1,0 +1,18 @@
+[
+  {
+    "_ctl_n": "marathon_root",
+    "path_n": "marathon_root",
+    "data": {
+      "_s_n": "_ctl",
+      "_ctl_n": {"$in": ["main_nav", "secondary_path_link", "sub_path", "footer"]}
+    },
+    "data_dis_key_arr": ["path_dis"],
+    "data_sort_key": "_ctl_n",
+    "data_sort_arr": [
+      "main_nav",
+      "secondary_path_link",
+      "sub_path",
+      "footer"
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "path_n": "blank",
+    "path_n": "root",
     "path_dis": "Marathon",
     "path_ctl_arr": [
       "main_nav",
@@ -13,9 +13,7 @@
   {
     "path_n": "home",
     "path_dis": "Home",
-    "path_ctl_arr": [
-      "sub_path"
-    ]
+    "path_ctl_arr": []
   },
 
   {
@@ -23,8 +21,7 @@
     "path_dis": "About",
     "path_ctl_arr": [
       "marathon_team_info",
-      "approach_gr",
-      "sub_path"
+      "approach_gr"
     ]
   },
 
@@ -32,8 +29,7 @@
     "path_n": "experiences",
     "path_dis": "Experiences",
     "path_ctl_arr": [
-      "img_gr_btn_gr",
-      "sub_path"
+      "img_gr_btn_gr"
     ]
   },
 
@@ -41,8 +37,7 @@
     "path_n": "img_behind_the_scene",
     "path_dis": "Behind the Scenes",
     "path_ctl_arr": [
-      "img_gr_ty_behind_the_scene",
-      "sub_path"
+      "img_gr_ty_behind_the_scene"
     ]
   },
 
@@ -50,8 +45,7 @@
     "path_n": "img_location",
     "path_dis": "Locations",
     "path_ctl_arr": [
-      "img_location_gr_btn_gr",
-      "sub_path"
+      "img_location_gr_btn_gr"
     ]
   },
 
@@ -59,8 +53,7 @@
     "path_n": "img_location_condo",
     "path_dis": "Condo",
     "path_ctl_arr": [
-      "img_gr_location_ty_condo",
-      "sub_path"
+      "img_gr_location_ty_condo"
     ]
   },
 
@@ -68,8 +61,7 @@
     "path_n": "img_location_restaruant",
     "path_dis": "Restaruant",
     "path_ctl_arr": [
-      "img_gr_location_ty_restaruant",
-      "sub_path"
+      "img_gr_location_ty_restaruant"
     ]
   },
 
@@ -77,8 +69,7 @@
     "path_n": "img_location_office",
     "path_dis": "Office",
     "path_ctl_arr": [
-      "img_gr_location_ty_office",
-      "sub_path"
+      "img_gr_location_ty_office"
     ]
   },
 
@@ -86,8 +77,7 @@
     "path_n": "img_location_mall",
     "path_dis": "Mall",
     "path_ctl_arr": [
-      "img_gr_location_ty_mall",
-      "sub_path"
+      "img_gr_location_ty_mall"
     ]
   },
 
@@ -95,8 +85,7 @@
     "path_n": "contact",
     "path_dis": "Contact",
     "path_ctl_arr": [
-      "contact_us",
-      "sub_path"
+      "contact_us"
     ]
   }
 ]

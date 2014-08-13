@@ -1,0 +1,52 @@
+[
+
+  {
+    "path_n": "home",
+    "path_dis": "Home"
+  },
+
+  {
+    "path_n": "about",
+    "path_dis": "About"
+  },
+
+  {
+    "path_n": "experiences",
+    "path_dis": "Experiences"
+  },
+
+  {
+    "path_n": "img_behind_the_scene",
+    "path_dis": "Behind the Scenes"
+  },
+
+  {
+    "path_n": "img_location",
+    "path_dis": "Locations"
+  },
+
+  {
+    "path_n": "img_location_condo",
+    "path_dis": "Condo"
+  },
+
+  {
+    "path_n": "img_location_restaruant",
+    "path_dis": "Restaruant"
+  },
+
+  {
+    "path_n": "img_location_office",
+    "path_dis": "Office"
+  },
+
+  {
+    "path_n": "img_location_mall",
+    "path_dis": "Mall"
+  },
+
+  {
+    "path_n": "contact",
+    "path_dis": "Contact"
+  }
+]
