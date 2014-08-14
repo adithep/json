@@ -1,0 +1,20 @@
+[
+  {
+    "app_n": "marathon",
+    "app_dis": "Marathon",
+    "app_root": ["main_nav", "secondary_path_link", "sub_path", "footer"],
+    "look_n": "mara",
+    "paths": {
+      "home": [],
+      "about": ["marathon_team_info", "approach_gr"],
+      "experiences": ["img_gr_btn_gr"],
+      "img_behind_the_scene": ["img_gr_ty_behind_the_scene"],
+      "img_location": ["img_location_gr_btn_gr"],
+      "img_location_condo": ["img_gr_location_ty_condo"],
+      "img_location_restaruant": ["img_gr_location_ty_restaruant"],
+      "img_location_office": ["img_gr_location_ty_office"],
+      "img_location_mall": ["img_gr_location_ty_mall"],
+      "contact": ["contact_us"]
+    }
+  }
+]

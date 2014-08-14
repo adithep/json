@@ -63,6 +63,20 @@
     "key_dis": "Border"
   },
   {
+    "key_n": "app_n",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "apps",
+    "key_key": "app_n",
+    "key_arr": true,
+    "key_dis": "Application Name"
+  },
+  {
+    "key_n": "app_dis",
+    "key_ty": "_st",
+    "key_dis": "Application Name for Display"
+  },
+  {
     "key_n": "tem_for",
     "key_r": true,
     "key_ty": "_st",
@@ -667,7 +681,7 @@
   },
   {
     "key_n": "sort",
-    "key_ty": "_num",
+    "key_ty": "sort",
     "key_dis": "Sort"
   },
   {
@@ -750,7 +764,22 @@
   {
     "key_n": "data",
     "key_ty": "ejson",
-    "key_dis": "Data to earch in EJSON form"
+    "key_dis": "Data to search in EJSON form"
+  },
+  {
+    "key_n": "data_opt",
+    "key_ty": "_st",
+    "key_dis": "Data to search in EJSON form"
+  },
+  {
+    "key_n": "app_root",
+    "key_ty": "paths",
+    "key_dis": "Options for Query"
+  },
+  {
+    "key_n": "paths",
+    "key_ty": "paths",
+    "key_dis": "Paths mapping Obj"
   },
   {
     "key_n": "slave_data",
@@ -804,7 +833,7 @@
     "key_n": "tem_ty_n",
     "key_r": true,
     "key_ty": "_st",
-    "key_s": "tem_ty",
+    "key_s": "templates",
     "key_key": "tem_ty_n",
     "key_arr": true,
     "key_dis": "Template Type Name"

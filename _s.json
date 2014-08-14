@@ -12,6 +12,8 @@
       "_s_n_for",
       "json",
       "_s_keys",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -34,6 +36,8 @@
       "key_arr",
       "key_slave",
       "key_dis",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -42,7 +46,6 @@
   {
     "_s_n_for": "paths",
     "_s_n": "_s",
-    "web_spec": true,
     "json": [
       {"_n": "main", "path": "paths.json"}
     ],
@@ -50,43 +53,9 @@
       "_id",
       "_s_n",
       "path_n",
-      "path_tem",
-      "path_ctl_arr",
       "path_dis",
-      "_dt",
-      "_usr"
-    ]
-  },
-
-  {
-    "_s_n_for": "_spa",
-    "_s_n": "_s",
-    "web_spec": true,
-    "json": [
-      {"_n": "main", "path": "_spa.json"}
-    ],
-    "_s_keys": [
-      "_id",
-      "_s_n",
-      "_spa",
-      "tem_ty_n",
-      "_spa_ctl_arr",
-      "_dt",
-      "_usr"
-    ]
-  },
-
-  {
-    "_s_n_for": "input_forms",
-    "_s_n": "_s",
-    "json": [
-      {"_n": "main", "path": "input_forms.json"}
-    ],
-    "_s_keys": [
-      "_id",
-      "_s_n",
-      "input_form_n",
-      "href",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -103,6 +72,8 @@
       "_s_n",
       "continent_n",
       "continent_c",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -133,6 +104,8 @@
       "relevance",
       "continent_n",
       "sub_region",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -151,6 +124,8 @@
       "country_n",
       "_loc",
       "population",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -172,6 +147,8 @@
       "_nt_symbol",
       "currency_n",
       "currency_n_pl",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -189,6 +166,8 @@
       "language_n",
       "language_c",
       "_nt_language_n",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -204,6 +183,8 @@
       "_id",
       "_s_n",
       "service_n",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -219,6 +200,8 @@
       "_id",
       "_s_n",
       "title_n",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -236,9 +219,11 @@
       "human_id",
       "company_id",
       "service_n",
-      "dte_of_entry",
+      "_dt_of_entry",
       "currency_c",
       "cost",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -253,6 +238,8 @@
     "_s_keys": [
       "_id",
       "_s_n",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -267,6 +254,8 @@
     "_s_keys": [
       "_id",
       "_s_n",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -290,6 +279,8 @@
       "company_id_arr",
       "country_n_arr",
       "city_n_arr",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -305,6 +296,8 @@
       "_id",
       "_s_n",
       "location_ty_n",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -324,6 +317,8 @@
       "location_ty_n",
       "country_n",
       "city_n",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -341,6 +336,8 @@
       "approach_n",
       "img_uuid",
       "approach_description",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -369,6 +366,8 @@
       "mobile_personal_arr",
       "_adr_main_city_n",
       "_adr_main_country_n",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -394,6 +393,8 @@
       "mobile_personal_arr",
       "_adr_main_city_n",
       "_adr_main_country_n",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -413,24 +414,8 @@
       "_st",
       "language_n",
       "_tr_st",
-      "_dt",
-      "_usr"
-    ]
-  },
-
-  {
-    "_s_n_for": "_alt_spellings",
-    "_s_n": "_s",
-    "json": [
-      {"_n": "main", "path": "alt-spellings.json"}
-    ],
-    "_s_keys": [
-      "_id",
-      "_s_n",
-      "_s_alt_spellings",
-      "key_alt_spellings",
-      "_st",
-      "_alt_spelling_st",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -446,22 +431,8 @@
       "_id",
       "_s_n",
       "dis_ty_n",
-      "_dt",
-      "_usr"
-    ]
-  },
-
-  {
-    "_s_n_for": "tem_ty",
-    "_s_n": "_s",
-    "json": [
-      {"_n": "main", "path": "tem_ty.json"}
-    ],
-    "_s_keys": [
-      "_id",
-      "_s_n",
-      "tem_ty_n",
-      "tem_for_arr",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -479,6 +450,8 @@
       "tem_ty_n",
       "tem_comp",
       "doc_comp",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -495,24 +468,8 @@
       "_s_n",
       "look_n",
       "tem_ty_n_arr",
-      "_dt",
-      "_usr"
-    ]
-  },
-
-  {
-    "_s_n_for": "def_tem",
-    "_s_n": "_s",
-    "web_spec": true,
-    "json": [
-      {"_n": "main", "path": "def_tem.json"}
-    ],
-    "_s_keys": [
-      "_id",
-      "_s_n",
-      "tem_ty_n",
-      "tem_n",
-      "look_n",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -528,6 +485,29 @@
       "_id",
       "_s_n",
       "_tri_action_n",
+      "app_n_arr",
+      "sort",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "apps",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "apps.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "app_n",
+      "app_dis",
+      "app_root",
+      "look_n",
+      "paths",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
@@ -536,7 +516,6 @@
   {
     "_s_n_for": "_ctl",
     "_s_n": "_s",
-    "web_spec": true,
     "json": [
       {"_n": "main", "path": "_ctl.json"}
     ],
@@ -546,11 +525,11 @@
       "_ctl_n",
       "dis_key_dis",
       "data",
+      "data_opt",
       "data_dis_key_arr",
       "data_href",
       "data_sub_href",
       "tem_ty_n",
-      "sort",
       "data_sort_key",
       "data_sort_arr",
       "data_func",
@@ -558,6 +537,8 @@
       "slave_data",
       "evts",
       "user",
+      "app_n_arr",
+      "sort",
       "_dt",
       "_usr"
     ]
