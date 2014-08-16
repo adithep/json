@@ -43,11 +43,10 @@
   {
     "_ctl_n": "main_nav_title",
     "data": {
-      "_s_n": "paths",
-      "path_n": "blank"
+      "_s_n": "apps"
     },
-    "data_dis_key_arr": ["path_dis"],
-    "data_href": "path_n",
+    "data_dis_key_arr": ["app_dis"],
+    "data_href": "/",
     "tem_ty_n": "nav_title"
   },
   {
