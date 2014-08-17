@@ -72,6 +72,14 @@
     "key_dis": "Application Name"
   },
   {
+    "key_n": "app_server_n",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "app_server",
+    "key_key": "app_server_n",
+    "key_dis": "Application Server Name"
+  },
+  {
     "key_n": "app_dis",
     "key_ty": "_st",
     "key_dis": "Application Name for Display"

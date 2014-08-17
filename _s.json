@@ -493,6 +493,41 @@
   },
 
   {
+    "_s_n_for": "tem_looks",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "tem_looks.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "tem_ty_n",
+      "look_n",
+      "app_n_arr",
+      "sort",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "app_server",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "app_server.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "app_n",
+      "app_server_n",
+      "sort",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
     "_s_n_for": "apps",
     "_s_n": "_s",
     "json": [
@@ -504,7 +539,6 @@
       "app_n",
       "app_dis",
       "look_n",
-      "paths",
       "app_n_arr",
       "sort",
       "_dt",
@@ -516,7 +550,8 @@
     "_s_n_for": "_ctl",
     "_s_n": "_s",
     "json": [
-      {"_n": "main", "path": "_ctl.json"}
+      {"_n": "main", "path": "_ctl.json"},
+      {"_n": "paths", "path": "_ctl_with_path.json"}
     ],
     "_s_keys": [
       "_id",
@@ -528,6 +563,7 @@
       "data_dis_key_arr",
       "data_href",
       "data_sub_href",
+      "path_n",
       "tem_ty_n",
       "data_sort_key",
       "data_sort_arr",

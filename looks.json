@@ -2,5 +2,9 @@
   {
     "look_n": "mara",
     "tem_ty_n_arr": ["main_nav","nav_title","nav_btn_list","nav_user"]
+  },
+  {
+    "look_n": "muru",
+    "tem_ty_n_arr": ["main_nav","nav_title","nav_btn_list","nav_user"]
   }
 ]

@@ -1,0 +1,174 @@
+[
+
+  {
+    "_id": "LhtPf2fzgxsPWzoT8",
+    "_ctl_n": "marathon_root",
+    "path_n": "root",
+    "data": {
+      "_s_n": "_ctl",
+      "_id": {"$in": ["bJwTTkMkvhRqwYozx", "suxa88K3Z66DER5ko", "6bXwygerfPAmcYNXm", "EfD9438L3CrKx96wf"]}
+    },
+    "data_sort_key": "_id",
+    "data_sort_arr": ["bJwTTkMkvhRqwYozx", "suxa88K3Z66DER5ko", "6bXwygerfPAmcYNXm", "EfD9438L3CrKx96wf"],
+    "app_n_arr": ["marathon"]
+  },
+
+  {
+    "_id": "Sbcp4KKfbzhJjZcAb",
+    "_ctl_n": "about",
+    "path_n": "about",
+    "data": {
+      "_s_n": "_ctl",
+      "_id": {"$in": ["XuoPKrCK5jprAwgq2", "DKn73evJ3N2S34Q5r"]}
+    },
+    "data_sort_key": "_id",
+    "data_sort_arr": ["XuoPKrCK5jprAwgq2", "DKn73evJ3N2S34Q5r"],
+    "app_n_arr": ["marathon"]
+  },
+  {
+    "_id": "jpykJvcJCQpsv3Df8",
+    "path_n": "experiences",
+    "_ctl_n": "img_gr_btn_gr",
+    "data_dis_key_arr": ["path_dis"],
+    "data": { "_s_n": "paths", "path_n": {"$in": ["img_location", "img_behind_the_scene"]}},
+    "data_sort_key": "path_n",
+    "data_sort_arr": ["img_location", "img_behind_the_scene"],
+    "tem_ty_n": "_btn_gr",
+    "data_href": "path_n",
+    "app_n_arr": ["marathon"]
+  },
+  {
+    "_id": "MAoByjD3DBLowphJz",
+    "path_n": "img_location",
+    "_ctl_n": "img_location_gr_btn_gr",
+    "data_dis_key_arr": ["path_dis"],
+    "data": {
+      "_s_n": "paths",
+      "path_n": {"$in": [
+        "img_location_restaruant",
+        "img_location_condo",
+        "img_location_mall",
+        "img_location_office"
+      ]}
+    },
+    "data_sort_key": "path_n",
+    "data_sort_arr": [
+      "img_location_restaruant",
+      "img_location_condo",
+      "img_location_mall",
+      "img_location_office"
+    ],
+    "tem_ty_n": "_btn_gr",
+    "data_href": "path_n",
+    "app_n_arr": ["marathon"]
+  },
+  {
+    "_id": "F6yBfcYK28vTassg5",
+    "path_n": "img_behind_the_scene",
+    "_ctl_n": "img_gr_ty_behind_the_scene",
+    "data_dis_key_arr": ["img_uuid"],
+    "data": {
+      "_s_n": "img",
+      "project_id_arr": {
+        "$in": [
+          "to_be_filled"
+        ]
+      },
+      "img_ty_arr": "behind_the_scene"
+    },
+    "tem_ty_n": "img_gr",
+    "evts": [{"evt": "change_local_sort"}],
+    "app_n_arr": ["marathon"]
+  },
+  {
+    "_id": "u8FmC5RyuDFXBEYcj",
+    "path_n": "img_location_restaruant",
+    "_ctl_n": "img_gr_location_ty_restaruant",
+    "data_dis_key_arr": ["img_uuid"],
+    "data": {
+      "_s_n": "img",
+      "location_ty_n_arr": "Restaruant",
+      "location_id_arr": {
+        "$in": [
+          "EmCxofXsebsXQHJLY",
+          "vFD4jn97ez4Em7Tr4",
+          "5QSJaYoCNCarWrc7y",
+          "KMSLHowfDHZqNtGe7",
+          "NpTRr8hX5ueask3mW"
+        ]
+      }
+    },
+    "tem_ty_n": "img_gr",
+    "evts": [{"evt": "change_local_sort"}],
+    "app_n_arr": ["marathon"]
+  },
+  {
+    "_id": "h2hHCAL27BgfGoHDi",
+    "path_n": "img_location_condo",
+    "_ctl_n": "img_gr_location_ty_condo",
+    "data_dis_key_arr": ["img_uuid"],
+    "data": {
+      "_s_n": "img",
+      "location_ty_n_arr": "Condo",
+      "location_id_arr": {
+        "$in": ["ELwKPCaJARdyYFkzq", "FuvWq2sGea3bxSeQM"]
+      }
+    },
+    "tem_ty_n": "img_gr",
+    "evts": [{"evt": "change_local_sort"}],
+    "app_n_arr": ["marathon"]
+  },
+  {
+    "_id": "Xh3TbBRtEKGnriQmi",
+    "path_n": "img_location_office",
+    "_ctl_n": "img_gr_location_ty_office",
+    "data_dis_key_arr": ["img_uuid"],
+    "data": {
+      "_s_n": "img",
+      "location_ty_n_arr": "Office",
+      "location_id_arr": {
+        "$in": [
+          "FGADmqtBKdT5Amxyk",
+          "jucfEpoga6MgdW2vT",
+          "jdi37ZrXd6z9FDziX"
+        ]
+      }
+    },
+    "tem_ty_n": "img_gr",
+    "evts": [{"evt": "change_local_sort"}],
+    "app_n_arr": ["marathon"]
+  },
+  {
+    "_id": "LgcCG4LAoirQPs343",
+    "path_n": "img_location_mall",
+    "_ctl_n": "img_gr_location_ty_mall",
+    "data_dis_key_arr": ["img_uuid"],
+    "data": {
+      "_s_n": "img",
+      "location_ty_n_arr": "Mall",
+      "location_id_arr": {
+        "$in": [
+          "D6D4RiZQZ7nQFqS27",
+          "t6WFM8CCgGiD3TC5L",
+          "oWZuGMmvMQttrMT2a"
+        ]
+      }
+    },
+    "tem_ty_n": "img_gr",
+    "evts": [{"evt": "change_local_sort"}],
+    "app_n_arr": ["marathon"]
+  },
+  {
+    "_id": "N9pgo2FYwmeuPmr5M",
+    "path_n": "contact_us",
+    "_ctl_n": "contact_us",
+    "data": {
+      "_s_n": "_ctl",
+      "_id": {"$in": ["TNbya8ujcbXm3md6w", "9eCvGEkhFNHdiT4yY"]}
+    },
+    "data_dis_key_arr": ["path_dis"],
+    "data_sort_key": "_id",
+    "data_sort_arr": ["TNbya8ujcbXm3md6w", "9eCvGEkhFNHdiT4yY"],
+    "tem_ty_n": "contact_us"
+  }
+]
