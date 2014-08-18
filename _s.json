@@ -547,11 +547,28 @@
   },
 
   {
+    "_s_n_for": "a_paths",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "a_paths.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "path_n",
+      "_ctl_id_arr",
+      "app_n_arr",
+      "sort",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
     "_s_n_for": "_ctl",
     "_s_n": "_s",
     "json": [
-      {"_n": "main", "path": "_ctl.json"},
-      {"_n": "paths", "path": "_ctl_with_path.json"}
+      {"_n": "main", "path": "_ctl.json"}
     ],
     "_s_keys": [
       "_id",

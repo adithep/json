@@ -863,7 +863,16 @@
     "key_ty": "_st",
     "key_s": "_ctl",
     "key_key": "_ctl_n",
-    "key_dis": "Data to earch in EJSON form"
+    "key_dis": "Data to search in EJSON form"
+  },
+  {
+    "key_n": "_ctl_id",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "_ctl",
+    "key_key": "_id",
+    "key_arr": true,
+    "key_dis": "ID of _ctl"
   },
   {
     "key_n": "_tri_dis_ldata",

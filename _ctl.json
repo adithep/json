@@ -15,6 +15,7 @@
   {
     "_id": "6bXwygerfPAmcYNXm",
     "_ctl_n": "sub_path",
+    "sort": {"sub_path": -1},
     "tem_ty_n": "sub_path"
   },
 
@@ -130,5 +131,124 @@
       "_s_n": "approaches"
     },
     "tem_ty_n": "info_with_img"
+  },
+  {
+    "_id": "jpykJvcJCQpsv3Df8",
+    "_ctl_n": "img_gr_btn_gr",
+    "data_dis_key_arr": ["path_dis"],
+    "data": { "_s_n": "paths", "path_n": {"$in": ["img_location", "img_behind_the_scene"]}},
+    "data_sort_key": "path_n",
+    "data_sort_arr": ["img_location", "img_behind_the_scene"],
+    "tem_ty_n": "_btn_gr",
+    "data_href": "path_n"
+  },
+  {
+    "_id": "MAoByjD3DBLowphJz",
+    "_ctl_n": "img_location_gr_btn_gr",
+    "data_dis_key_arr": ["path_dis"],
+    "data": {
+      "_s_n": "paths",
+      "path_n": {"$in": [
+        "img_location_restaruant",
+        "img_location_condo",
+        "img_location_mall",
+        "img_location_office"
+      ]}
+    },
+    "data_sort_key": "path_n",
+    "data_sort_arr": [
+      "img_location_restaruant",
+      "img_location_condo",
+      "img_location_mall",
+      "img_location_office"
+    ],
+    "tem_ty_n": "_btn_gr",
+    "data_href": "path_n"
+  },
+  {
+    "_id": "F6yBfcYK28vTassg5",
+    "_ctl_n": "img_gr_ty_behind_the_scene",
+    "data_dis_key_arr": ["img_uuid"],
+    "data": {
+      "_s_n": "img",
+      "project_id_arr": {
+        "$in": [
+          "to_be_filled"
+        ]
+      },
+      "img_ty_arr": "behind_the_scene"
+    },
+    "tem_ty_n": "img_gr",
+    "evts": [{"evt": "change_local_sort"}]
+  },
+  {
+    "_id": "u8FmC5RyuDFXBEYcj",
+    "_ctl_n": "img_gr_location_ty_restaruant",
+    "data_dis_key_arr": ["img_uuid"],
+    "data": {
+      "_s_n": "img",
+      "location_ty_n_arr": "Restaruant",
+      "location_id_arr": {
+        "$in": [
+          "EmCxofXsebsXQHJLY",
+          "vFD4jn97ez4Em7Tr4",
+          "5QSJaYoCNCarWrc7y",
+          "KMSLHowfDHZqNtGe7",
+          "NpTRr8hX5ueask3mW"
+        ]
+      }
+    },
+    "tem_ty_n": "img_gr",
+    "evts": [{"evt": "change_local_sort"}]
+  },
+  {
+    "_id": "h2hHCAL27BgfGoHDi",
+    "_ctl_n": "img_gr_location_ty_condo",
+    "data_dis_key_arr": ["img_uuid"],
+    "data": {
+      "_s_n": "img",
+      "location_ty_n_arr": "Condo",
+      "location_id_arr": {
+        "$in": ["ELwKPCaJARdyYFkzq", "FuvWq2sGea3bxSeQM"]
+      }
+    },
+    "tem_ty_n": "img_gr",
+    "evts": [{"evt": "change_local_sort"}]
+  },
+  {
+    "_id": "Xh3TbBRtEKGnriQmi",
+    "_ctl_n": "img_gr_location_ty_office",
+    "data_dis_key_arr": ["img_uuid"],
+    "data": {
+      "_s_n": "img",
+      "location_ty_n_arr": "Office",
+      "location_id_arr": {
+        "$in": [
+          "FGADmqtBKdT5Amxyk",
+          "jucfEpoga6MgdW2vT",
+          "jdi37ZrXd6z9FDziX"
+        ]
+      }
+    },
+    "tem_ty_n": "img_gr",
+    "evts": [{"evt": "change_local_sort"}]
+  },
+  {
+    "_id": "LgcCG4LAoirQPs343",
+    "_ctl_n": "img_gr_location_ty_mall",
+    "data_dis_key_arr": ["img_uuid"],
+    "data": {
+      "_s_n": "img",
+      "location_ty_n_arr": "Mall",
+      "location_id_arr": {
+        "$in": [
+          "D6D4RiZQZ7nQFqS27",
+          "t6WFM8CCgGiD3TC5L",
+          "oWZuGMmvMQttrMT2a"
+        ]
+      }
+    },
+    "tem_ty_n": "img_gr",
+    "evts": [{"evt": "change_local_sort"}]
   }
 ]
