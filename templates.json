@@ -2,35 +2,40 @@
   {
     "tem_ty_n": "main_nav",
     "tem_comp": "nav_with_con_tem",
-    "tem_class": "main_nav"
+    "tem_class": "main_nav",
+    "app_n_arr": ["marathon"]
   },
   {
     "tem_ty_n": "nav_title",
     "tem_comp": "div_tem",
     "tem_class": "nav_title",
     "doc_comp": "h1_tem",
-    "doc_class": "title_h1"
+    "doc_class": "title_h1",
+    "app_n_arr": ["marathon"]
   },
   {
     "tem_ty_n": "nav_btn_list",
     "tem_comp": "div_tem",
     "tem_class": "nav_btn_list",
     "doc_comp": "span_tem",
-    "doc_class": "_btn"
+    "doc_class": "_btn",
+    "app_n_arr": ["marathon"]
   },
   {
     "tem_ty_n": "_btn_gr",
     "tem_comp": "div_with_con_tem",
     "tem_class": "_btn_gr",
     "doc_comp": "span_tem",
-    "doc_class": "_btn"
+    "doc_class": "_btn",
+    "app_n_arr": ["marathon"]
   },
   {
     "tem_ty_n": "img_gr",
     "tem_comp": "div_tem",
     "tem_class": "img_div",
     "doc_comp": "img_tem",
-    "doc_class": "img"
+    "doc_class": "img",
+    "app_n_arr": ["marathon"]
   },
   {
     "tem_ty_n": "footer",
@@ -43,32 +48,37 @@
     "tem_comp": "div_tem",
     "tem_class": "footer_about",
     "doc_comp": "span_tem",
-    "doc_class": "doc_dis"
+    "doc_class": "doc_dis",
+    "app_n_arr": ["marathon"]
   },
   {
     "tem_ty_n": "list_info",
     "tem_comp": "div_tem",
     "tem_class": "list_info",
     "doc_comp": "span_tem",
-    "doc_class": "doc_dis"
+    "doc_class": "doc_dis",
+    "app_n_arr": ["marathon"]
   },
   {
     "tem_ty_n": "contact_us",
     "tem_comp": "div_tem",
     "div_class": "contact_us",
     "doc_comp": "span_tem",
-    "doc_class": "doc_dis"
+    "doc_class": "doc_dis",
+    "app_n_arr": ["marathon"]
   },
 
   {
     "tem_ty_n": "input",
     "tem_comp": "div_tem",
-    "tem_class": "input_div"
+    "tem_class": "input_div",
+    "app_n_arr": ["marathon"]
   },
   {
     "tem_ty_n": "banner",
     "tem_comp": "div_tem",
-    "tem_class": "banner"
+    "tem_class": "banner",
+    "app_n_arr": ["marathon"]
   }
 
 ]
