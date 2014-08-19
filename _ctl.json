@@ -123,14 +123,14 @@
     "_id": "DKn73evJ3N2S34Q5r",
     "_ctl_n": "approach_gr",
     "data_dis_key_arr": [
+      "font_awesome_unicode",
       "approach_n",
-      "approach_description",
-      "img_uuid"
+      "approach_description"
     ],
     "data": {
       "_s_n": "approaches"
     },
-    "tem_ty_n": "info_with_img"
+    "tem_ty_n": "list_info"
   },
   {
     "_id": "jpykJvcJCQpsv3Df8",

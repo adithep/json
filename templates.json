@@ -1,67 +1,74 @@
 [
   {
-    "tem_comp": [{"tag": "nav", "class": "main_nav", "tem_comp": [{"tag": "div", "class": "container"}]}],
-    "tem_ty_n": "main_nav"
+    "tem_ty_n": "main_nav",
+    "tem_comp": "nav_with_con_tem",
+    "tem_class": "main_nav"
   },
   {
     "tem_ty_n": "nav_title",
-    "tem_comp": [{"tag": "div", "class": "nav_title"}],
-    "doc_comp": "title_h1"
-  },
-  {
-    "tem_ty_n": "title_h1",
-    "tem_comp": [{"tag": "h1", "class": "title_h1"}]
+    "tem_comp": "div_tem",
+    "tem_class": "nav_title",
+    "doc_comp": "h1_tem",
+    "doc_class": "title_h1"
   },
   {
     "tem_ty_n": "nav_btn_list",
-    "tem_comp": [{"tag": "div", "class": "nav_btn_list"}],
-    "doc_comp": "span_btn"
+    "tem_comp": "div_tem",
+    "tem_class": "nav_btn_list",
+    "doc_comp": "span_tem",
+    "doc_class": "_btn"
   },
   {
     "tem_ty_n": "_btn_gr",
-    "tem_comp": [{"tag": "div", "class": "_btn_gr", "tem_comp": [{"tag": "div", "class": "container"}]}],
-    "doc_comp": "span_btn"
+    "tem_comp": "div_with_con_tem",
+    "tem_class": "_btn_gr",
+    "doc_comp": "span_tem",
+    "doc_class": "_btn"
   },
   {
     "tem_ty_n": "img_gr",
-    "tem_comp": [{"tag": "div", "class": "img_gr", "tem_comp": [{"tag": "div", "class": "container"}]}],
-    "doc_comp": "img"
+    "tem_comp": "div_tem",
+    "tem_class": "img_div",
+    "doc_comp": "img_tem",
+    "doc_class": "img"
   },
   {
-    "tem_ty_n": "img",
-    "tem_comp": [{"tag": "img", "class": "img"}]
-  },
-  {
-    "tem_ty_n": "span_btn",
-    "tem_comp": [{"tag": "span", "class": "_btn"}]
-  },
-  {
-    "tem_ty_n": "nav_user"
-  },
-  {
-    "tem_comp": [{"tag": "div", "class": "footer_div"}],
-    "tem_ty_n": "footer"
+    "tem_ty_n": "footer",
+    "tem_comp": "div_tem",
+    "tem_class": "footer_div"
+
   },
   {
     "tem_ty_n": "footer_about",
-    "tem_comp": [{"tag": "div", "class": "footer_about"}],
-    "doc_comp": "key_dis"
+    "tem_comp": "div_tem",
+    "tem_class": "footer_about",
+    "doc_comp": "span_tem",
+    "doc_class": "doc_dis"
+  },
+  {
+    "tem_ty_n": "list_info",
+    "tem_comp": "div_tem",
+    "tem_class": "list_info",
+    "doc_comp": "span_tem",
+    "doc_class": "doc_dis"
   },
   {
     "tem_ty_n": "contact_us",
-    "tem_comp": [{"tag": "div", "class": "contact_us"}],
-    "doc_comp": "key_dis"
+    "tem_comp": "div_tem",
+    "div_class": "contact_us",
+    "doc_comp": "span_tem",
+    "doc_class": "doc_dis"
   },
-  {
-    "tem_ty_n": "key_dis",
-    "tem_comp": [{"tag": "div", "class": "doc_div", "tem_comp": [{"tag": "span", "class": "doc_dis"}]}]
-  },
+
   {
     "tem_ty_n": "input",
-    "tem_comp": [{"tag": "div", "class": "input_div"}]
+    "tem_comp": "div_tem",
+    "tem_class": "input_div"
   },
   {
     "tem_ty_n": "banner",
-    "tem_comp": [{"tag": "div", "class": "banner"}]
+    "tem_comp": "div_tem",
+    "tem_class": "banner"
   }
+
 ]
