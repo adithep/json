@@ -1,5 +1,11 @@
 [
   {
+    "tem_ty_n": "sub_path",
+    "tem_comp": "sub_path",
+    "tem_class": "sub_path",
+    "app_n_arr": ["marathon"]
+  },
+  {
     "tem_ty_n": "main_nav",
     "tem_comp": "nav_with_con_tem",
     "tem_class": "main_nav",
@@ -40,14 +46,15 @@
   {
     "tem_ty_n": "footer",
     "tem_comp": "div_tem",
-    "tem_class": "footer_div"
+    "tem_class": "footer_div",
+    "app_n_arr": ["marathon"]
 
   },
   {
     "tem_ty_n": "footer_about",
     "tem_comp": "div_tem",
     "tem_class": "footer_about",
-    "doc_comp": "span_tem",
+    "doc_comp": "span_div_tem",
     "doc_class": "doc_dis",
     "app_n_arr": ["marathon"]
   },
@@ -63,7 +70,7 @@
     "tem_ty_n": "contact_us",
     "tem_comp": "div_tem",
     "div_class": "contact_us",
-    "doc_comp": "span_tem",
+    "doc_comp": "span_div_tem",
     "doc_class": "doc_dis",
     "app_n_arr": ["marathon"]
   },
