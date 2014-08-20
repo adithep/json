@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "company_n": "Syncate Co. Ltd.",
+    "conpany_n_thai": "บริษัท ซินเกต จำกัด",
+    "email_main_arr": ["syncate@syncate.com"],
+    "adr_main_thai": "เลขที่ 69/37 ซอยสุขุมวิท 4 ถนนสุขุมวิท",
+    "_adr_main_city_n": "Bangkok",
+    "_adr_main_country_n": "Thailand"
+  }
+]
