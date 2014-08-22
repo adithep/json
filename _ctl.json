@@ -168,7 +168,7 @@
   {
     "_id": "F6yBfcYK28vTassg5",
     "_ctl_n": "img_gr_ty_behind_the_scene",
-    "data_dis_key_arr": ["img_uuid"],
+    "data_dis_key_arr": ["_id"],
     "data": {
       "_s_n": "img",
       "project_id_arr": {
@@ -184,7 +184,7 @@
   {
     "_id": "u8FmC5RyuDFXBEYcj",
     "_ctl_n": "img_gr_location_ty_restaruant",
-    "data_dis_key_arr": ["img_uuid"],
+    "data_dis_key_arr": ["_id"],
     "data": {
       "_s_n": "img",
       "location_ty_n_arr": "Restaruant",
@@ -204,7 +204,7 @@
   {
     "_id": "h2hHCAL27BgfGoHDi",
     "_ctl_n": "img_gr_location_ty_condo",
-    "data_dis_key_arr": ["img_uuid"],
+    "data_dis_key_arr": ["_id"],
     "data": {
       "_s_n": "img",
       "location_ty_n_arr": "Condo",
@@ -218,7 +218,7 @@
   {
     "_id": "Xh3TbBRtEKGnriQmi",
     "_ctl_n": "img_gr_location_ty_office",
-    "data_dis_key_arr": ["img_uuid"],
+    "data_dis_key_arr": ["_id"],
     "data": {
       "_s_n": "img",
       "location_ty_n_arr": "Office",
@@ -236,7 +236,7 @@
   {
     "_id": "LgcCG4LAoirQPs343",
     "_ctl_n": "img_gr_location_ty_mall",
-    "data_dis_key_arr": ["img_uuid"],
+    "data_dis_key_arr": ["_id"],
     "data": {
       "_s_n": "img",
       "location_ty_n_arr": "Mall",

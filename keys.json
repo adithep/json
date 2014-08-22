@@ -369,12 +369,20 @@
     "key_dis": "Image Link"
   },
   {
-    "key_n": "img_uuid",
+    "key_n": "img_id",
     "key_r": true,
     "key_ty": "_st",
     "key_s": "img",
-    "key_key": "img_uuid",
-    "key_dis": "Image UUID"
+    "key_key": "_id",
+    "key_dis": "Image ID"
+  },
+  {
+    "key_n": "marathon_web_img_id",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "img",
+    "key_key": "_id",
+    "key_dis": "Image ID for Marathon Web"
   },
   {
     "key_n": "input_form_input_starting",
