@@ -1,5 +1,7 @@
 [
   {"_id": "marathon@marathon-films.com"},
+  {"_id": "producer@marathon-films.com"},
+  {"_id": "locations@marathon-films.com"},
   {"_id": "alpha@alpha-films.com"},
   {"_id": "casting@alpha-films.com"}
 ]
