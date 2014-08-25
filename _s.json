@@ -401,6 +401,34 @@
   },
 
   {
+    "_s_n_for": "employees",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "employees.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "human_id",
+      "company_id",
+      "main_job_title",
+      "profile_img_id",
+      "email_main_arr",
+      "email_work_arr",
+      "email_personal_arr",
+      "mobile_main_arr",
+      "mobile_work_arr",
+      "mobile_personal_arr",
+      "_adr_main_city_n",
+      "_adr_main_country_n",
+      "app_n_arr",
+      "sort",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
     "_s_n_for": "translations",
     "_s_n": "_s",
     "json": [

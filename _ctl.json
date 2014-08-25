@@ -109,12 +109,30 @@
       "img_uuid"
     ],
     "data": {
-      "_s_n": {"$in": ["humans", "img"]},
-      "_id": {"$in": ["to_be_filled"]}
+      "$or": [
+        {
+          "_s_n": "humans",
+          "_id": {"$in": [
+            "AspxCkbin4GbMM8ME",
+            "RFv77zNnouQ9qygHa",
+            "ez68cCFMXxAMLsmYL"
+          ]}
+        },
+        {
+          "_s_n": "employees",
+          "human_id": {"$in": [
+            "AspxCkbin4GbMM8ME",
+            "RFv77zNnouQ9qygHa",
+            "ez68cCFMXxAMLsmYL"
+          ]},
+          "company_id": "kbq2Wtg6PabRrPzob"
+        }
+      ]
     },
-    "slave_key": "_id",
-    "slave_data": {
-      "_id": {"_s_n": "img", "img_uuid": "to_be_filled"}
+    "group_key_by_s_n": "humans",
+    "group_key_by_key": "_id",
+    "group_key_slave": {
+      "employees": "human_id"
     },
     "tem_ty_n": "info_with_slave_img"
   },
