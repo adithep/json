@@ -74,7 +74,12 @@
   {
     "_id": "TNbya8ujcbXm3md6w",
     "_ctl_n": "company_about",
-    "data_dis_key_arr": ["company_n", "email_main_arr", "_adr_main_city_n", "_adr_main_country_n"],
+    "data_dis_key_arr": [
+      {"key_n": "company_n"},
+      {"key_n": "email_main_arr"},
+      {"key_n": "_adr_main_city_n"},
+      {"key_n": "_adr_main_country_n"}
+    ],
     "data": {
       "_s_n": "companies",
       "_id": "kbq2Wtg6PabRrPzob"
@@ -85,7 +90,7 @@
   {
     "_id": "9eCvGEkhFNHdiT4yY",
     "_ctl_n": "subscription_form",
-    "data_dis_key_arr": ["key_dis"],
+    "data_dis_key_arr": [{"key_n": "key_dis"}],
     "data": {
       "_s_n": "keys",
       "key_n": {"$in": ["first_n", "email_main_arr"]}
@@ -100,13 +105,10 @@
     "_id": "XuoPKrCK5jprAwgq2",
     "_ctl_n": "marathon_team_info",
     "data_dis_key_arr": [
-      "title_n",
-      "first_n",
-      "middle_n",
-      "last_n",
-      "email_main_arr",
-      "mobile_main_arr",
-      "img_uuid"
+      {"key_n": "profile_img_id", "template": "img_tem"},
+      {"key_c": ["title_n", "first_n", "middle_n", "last_n"]},
+      {"key_n": "email_main_arr"},
+      {"key_n": "mobile_main_arr"}
     ],
     "data": {
       "$or": [
@@ -134,16 +136,16 @@
     "group_key_slave": {
       "employees": "human_id"
     },
-    "tem_ty_n": "info_with_slave_img"
+    "tem_ty_n": "list_info"
   },
 
   {
     "_id": "DKn73evJ3N2S34Q5r",
     "_ctl_n": "approach_gr",
     "data_dis_key_arr": [
-      "font_awesome_unicode",
-      "approach_n",
-      "approach_description"
+      {"key_n": "font_awesome_unicode"},
+      {"key_n": "approach_n"},
+      {"key_n": "approach_description"}
     ],
     "data": {
       "_s_n": "approaches"
@@ -153,7 +155,7 @@
   {
     "_id": "jpykJvcJCQpsv3Df8",
     "_ctl_n": "img_gr_btn_gr",
-    "data_dis_key_arr": ["path_dis"],
+    "data_dis_key_arr": [{"key_n": "path_dis"}],
     "data": { "_s_n": "paths", "path_n": {"$in": ["img_location", "img_behind_the_scene"]}},
     "data_sort_key": "path_n",
     "data_sort_arr": ["img_location", "img_behind_the_scene"],
@@ -163,7 +165,7 @@
   {
     "_id": "MAoByjD3DBLowphJz",
     "_ctl_n": "img_location_gr_btn_gr",
-    "data_dis_key_arr": ["path_dis"],
+    "data_dis_key_arr": [{"key_n": "path_dis"}],
     "data": {
       "_s_n": "paths",
       "path_n": {"$in": [
