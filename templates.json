@@ -63,6 +63,7 @@
     "tem_comp": "div_tem",
     "tem_class": "list_info",
     "doc_comp": "span_div_tem",
+    "doc_each_comp": "span_each_tem",
     "doc_class": "doc_dis",
     "app_n_arr": ["marathon"]
   },

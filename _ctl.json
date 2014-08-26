@@ -26,7 +26,7 @@
       "_s_n": "_ctl",
       "_id": {"$in": ["TNbya8ujcbXm3md6w", "9eCvGEkhFNHdiT4yY"]}
     },
-    "data_dis_key_arr": ["path_dis"],
+    "data_dis_key_arr": [{"key_n": "path_dis"}],
     "data_sort_key": "_id",
     "data_sort_arr": ["TNbya8ujcbXm3md6w", "9eCvGEkhFNHdiT4yY"],
     "tem_ty_n": "footer"
@@ -39,7 +39,7 @@
     "data": {
       "_s_n": "apps"
     },
-    "data_dis_key_arr": ["app_dis"],
+    "data_dis_key_arr": [{"key_n": "app_dis"}],
     "data_href": "/",
     "tem_ty_n": "nav_title"
   },
@@ -52,7 +52,7 @@
     },
     "data_sort_key": "path_n",
     "data_sort_arr": ["home", "about", "experiences", "contact"],
-    "data_dis_key_arr": ["path_dis"],
+    "data_dis_key_arr": [{"key_n": "path_dis"}],
     "data_href": "path_n",
     "tem_ty_n": "nav_btn_list"
   },
@@ -60,14 +60,14 @@
     "_id": "BJSYWY656j6NYMBqL",
     "_ctl_n": "main_nav_user",
     "data_func": "current_user",
-    "data_dis_key_arr": ["username"],
+    "data_dis_key_arr": [{"key_n": "username"}],
     "tem_ty_n": "nav_user",
     "evts": [{"evt": "logout"}]
   },
   {
     "_id": "suxa88K3Z66DER5ko",
     "_ctl_n": "secondary_path_link",
-    "data_dis_key_arr": ["path_dis"],
+    "data_dis_key_arr": [{"key_n": "path_dis"}],
     "data_func": "current_path",
     "tem_ty_n": "banner"
   },
@@ -105,8 +105,13 @@
     "_id": "XuoPKrCK5jprAwgq2",
     "_ctl_n": "marathon_team_info",
     "data_dis_key_arr": [
-      {"key_n": "profile_img_id", "template": "img_tem"},
-      {"key_c": ["title_n", "first_n", "middle_n", "last_n"]},
+      {"key_n": "profile_img_id", "template": "img_gr"},
+      {"key_c": [
+        {"key_n": "title_n"}, 
+        {"key_n": "first_n"},
+        {"key_n": "middle_n"},
+        {"key_n": "last_n"}
+      ]},
       {"key_n": "email_main_arr"},
       {"key_n": "mobile_main_arr"}
     ],
@@ -188,7 +193,7 @@
   {
     "_id": "F6yBfcYK28vTassg5",
     "_ctl_n": "img_gr_ty_behind_the_scene",
-    "data_dis_key_arr": ["_id"],
+    "data_dis_key_arr": [{"key_n": "_id"}],
     "data": {
       "_s_n": "img",
       "project_id_arr": {
@@ -204,7 +209,7 @@
   {
     "_id": "u8FmC5RyuDFXBEYcj",
     "_ctl_n": "img_gr_location_ty_restaruant",
-    "data_dis_key_arr": ["_id"],
+    "data_dis_key_arr": [{"key_n": "_id"}],
     "data": {
       "_s_n": "img",
       "location_ty_n_arr": "Restaruant",
@@ -224,7 +229,7 @@
   {
     "_id": "h2hHCAL27BgfGoHDi",
     "_ctl_n": "img_gr_location_ty_condo",
-    "data_dis_key_arr": ["_id"],
+    "data_dis_key_arr": [{"key_n": "_id"}],
     "data": {
       "_s_n": "img",
       "location_ty_n_arr": "Condo",
@@ -238,7 +243,7 @@
   {
     "_id": "Xh3TbBRtEKGnriQmi",
     "_ctl_n": "img_gr_location_ty_office",
-    "data_dis_key_arr": ["_id"],
+    "data_dis_key_arr": [{"key_n": "_id"}],
     "data": {
       "_s_n": "img",
       "location_ty_n_arr": "Office",
@@ -256,7 +261,7 @@
   {
     "_id": "LgcCG4LAoirQPs343",
     "_ctl_n": "img_gr_location_ty_mall",
-    "data_dis_key_arr": ["_id"],
+    "data_dis_key_arr": [{"key_n": "_id"}],
     "data": {
       "_s_n": "img",
       "location_ty_n_arr": "Mall",
