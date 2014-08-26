@@ -107,7 +107,7 @@
     "data_dis_key_arr": [
       {"key_n": "profile_img_id", "template": "img_gr"},
       {"key_c": [
-        {"key_n": "title_n"}, 
+        {"key_n": "title_n"},
         {"key_n": "first_n"},
         {"key_n": "middle_n"},
         {"key_n": "last_n"}
