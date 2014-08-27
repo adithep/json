@@ -136,6 +136,8 @@
         }
       ]
     },
+    "data_sort_key": "_id",
+    "data_sort_arr": ["RFv77zNnouQ9qygHa", "AspxCkbin4GbMM8ME", "ez68cCFMXxAMLsmYL"],
     "group_key_by_s_n": "humans",
     "group_key_by_key": "_id",
     "group_key_slave": {
