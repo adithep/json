@@ -1,0 +1,45 @@
+[
+  {
+    "position": "Costume Stylist",
+    "name": "Greed",
+    "cost": 15000,
+    "confrim": true,
+    "mobile": "+66912159386"
+  },
+  {
+    "position": "Art Team",
+    "name": "M",
+    "cost": 20000,
+    "prop_cost": 10000,
+    "confirm": true,
+    "mobile": "+66944244914"
+  },
+  {
+    "position": "AD",
+    "name": "Ad",
+    "cost": 30000,
+    "confirm": true,
+    "mobile": "+66877196666"
+  },
+  {
+    "position": "MakeUp",
+    "name": "Aun",
+    "cost": 16000,
+    "confirm": true,
+    "mobile": "+66814960718"
+  },
+  {
+    "position": "Hair",
+    "name": "",
+    "cost": 16000,
+    "confirm": false,
+    "mobile": ""
+  },
+  {
+    "position": "Location Manager",
+    "name": "Pom",
+    "cost": 25000,
+    "confirm": true,
+    "mobile": "+66818089550"
+  },
+]

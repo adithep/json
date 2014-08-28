@@ -1,0 +1,365 @@
+[
+  {
+    "locations": {
+      "Film1": [
+        {
+          "lo": "Market",
+          "ex": ["girl’s legs"],
+          "pro": ["phone"],
+          "ac": "We see a girl’s legs in a market. Suddenly a phone falls to the ground."
+        },
+        {
+          "lo": "street",
+          "ex": ["uncle"],
+          "costume": ["safari suit", "sandals"],
+          "pro": ["leather pouch"],
+          "ac": "An uncle in a safari suit and sandals drops his leather pouch on a street. (Traffic sounds)"
+        },
+        {
+          "lo": "street",
+          "ex": ["kid"],
+          "pro": ["ice cream"],
+          "ac": "A scoop of ice cream falls at a kid’s feet. (Slow crying)"
+        },
+        {
+          "lo": "library",
+          "ex": ["guy"],
+          "pro": ["pile of books"],
+          "ac": "Someone drops a pile of books in a library. (Shhhhh…)"
+        },
+        {
+          "lo": "house",
+          "ex": ["guy"],
+          "pro": ["steel glass"],
+          "ac": "Someone drops a steel glass. (Steel clanging)"
+        },
+        {
+          "lo": "house",
+          "ex": ["guy"],
+          "pro": ["TV Remote"],
+          "ac": "A person drops a remote on his toes and hops around holding his foot. (Oh teri…)"
+        },
+        {
+          "lo": "bathroom(hand shower)",
+          "pro": ["hand shower"],
+          "ac": "dangles inches above the floor. A hand shower"
+        }
+      ],
+      "Film2": [
+        {
+          "lo": "anywhere(shoe)",
+          "ex": ["hands", "foot"],
+          "pro": ["shoe"],
+          "ac": "We see hands trying to fit a foot in a shoe that’s too tight. (grunting)"
+        },
+        {
+          "lo": "anywhere(jeans)",
+          "ex": ["hands"],
+          "pro": ["Jeans"],
+          "ac": "Hands struggle to button a pair of jeans that’s too tight. (ooff)"
+        },
+        {
+          "lo": "anywhere(Zip wedding dress)",
+          "ex": ["woman hands"],
+          "pro": ["zip up wedding dress"],
+          "ac": "Hands try to zip up a wedding dress that’s too tight. (gasping)"
+        },
+        {
+          "lo": "anyhere(handbag)",
+          "ex": ["Girl’s hands"],
+          "pro": ["overstuffed handbag"],
+          "ac": "Girl’s hands zip an overstuffed handbag. The zip splits open from the middle."
+        },
+        {
+          "lo": "anywhere(closet)",
+          "ex": ["hands"],
+          "pro": ["closet that’s too full"],
+          "ac": "Hands try to close a closet that’s too full."
+        },
+        {
+          "lo": "anywhere(overstuffed suitcase)",
+          "ex": ["hands", "knees"],
+          "pro": ["overstuffed suitcase"],
+          "ac": "Hands and knees try to shut an overstuffed suitcase."
+        },
+        {
+          "lo": "elevator(bookshelf)",
+          "ex": ["hands"],
+          "pro": ["tall bookshelf"],
+          "ac": "Hands push a wooden surface. We see a tall bookshelf standing in the elevator. (Open elevator top with bookshelf sticking out) "
+      }
+      ],
+      "Film3": [
+        {
+          "lo": "unsure/park",
+          "ex": ["hands(10)"],
+          "ac": "Hands go up in the air and people laugh loudly"
+        },
+        {
+          "lo": "unsure/park",
+          "ex": ["hands(10)"],
+          "ac": "Hands doing bhangra to a shaadi ka band in full swing"
+        },
+        {
+          "lo": "consert",
+          "ex": ["hands(10)"],
+          "pro": ["lighters(10)"],
+          "ac": "Hands in the air do the rock salute (or hold up lighters)"
+        },
+        {
+          "lo": "park",
+          "ex": ["palm/hand"],
+          "ac": "A palm comes down like a chop with a “haiiiya!”"
+        },
+        {
+          "lo": "house",
+          "pro": ["loud-speakers"],
+          "ex": ["Hands"],
+          "ac": "Hands clap rhythmically as jagraata music blares on loud-speakers"
+        },
+        {
+          "lo": "house",
+          "pro": ["loud-speakers"],
+          "ex": ["neta’s hands"],
+          "ac": "neta’s hands folded in the air as a loudspeaker blares: “Humaara Neta kaisa ho?”"
+        },
+        {
+          "lo": "house",
+          "pro": ["open window"],
+          "ex": ["hand"],
+          "ac": "Shadi band music comes in through an open window. A hand shuts the window and the sound disappears "
+        }
+      ],
+      "Film4": [
+        {
+          "lo": "bedroom",
+          "pro": ["alarm", "bedside table"],
+          "ex": ["hand"],
+          "ac": "An alarm goes off on a bedside table. A hand pushes it off the table"
+        },
+        {
+          "lo": "bedroom",
+          "pro": ["mobile"],
+          "ex": ["hand"],
+          "ac": "A hand puts a mobile on snooze"
+        },
+        {
+          "lo": "bedroom",
+          "pro": ["Blanket Cover"],
+          "ex": ["Man/Woman"],
+          "ac": "Someone pulls the covers over their head"
+        },
+        {
+          "lo": "bedroom",
+          "pro": ["Bed"],
+          "ex": ["hand", "dog", "guy"],
+          "ac": "A hand pushes away a dog trying to wake the person up."
+        },
+        {
+          "lo": "bedroom",
+          "pro": ["mobile"],
+          "ex": ["hand"],
+          "ac": "A hand puts the mobile on snooze again"
+        },
+        {
+          "lo": "bedroom",
+          "pro": ["pillow", "bed"],
+          "ex": ["guy"],
+          "ac": "A person sleeps with their head under the pillow"
+        },
+        {
+          "lo": "bedroom",
+          "pro": ["Bed"],
+          "ex": ["person"],
+          "ac": "Someone sleeps half out of bed, with their feet on the floor."
+        },
+        {
+          "lo": "bedroom",
+          "pro": ["geyser"],
+          "ac": "The light of a geyser comes on."
+        }
+      ],
+      "Film5": [
+        {
+          "lo": "Opera Theater",
+          "pro": ["glove", "opera glasses"],
+          "ex": ["gloved hand", "opera singer"],
+          "ac": "A gloved hand in an opera theatre holds a pair of opera glasses. The opera singer hits a high note "
+        },
+        {
+          "lo": "Movie Theater",
+          "pro": ["tub of popcorn"],
+          "ex": ["hand"],
+          "ac": "A hand in a movie theatre digs into a tub of popcorn"
+        },
+        {
+          "lo": "house/studio",
+          "pro": ["torchlight", "hand puppet"],
+          "ac": "A torchlight on the ceiling casts the shadow of a hand puppet"
+        },
+        {
+          "lo": "unsure/street",
+          "ex": ["hand"],
+          "pro": ["headphones", "music system"],
+          "ac": "A hand unplugs the headphones from a music system. Heavy metal music starts blaring. The lead singer growls "
+        },
+        {
+          "lo": "unsure/house",
+          "ex": ["baby’s hand"],
+          "pro": ["mobile", "cradle"],
+          "ac": "A baby’s hand reaches for the mobile dangling over its cradle and gurgles"
+        },
+        {
+          "lo": "living room",
+          "pro": ["LAN wire", "TV", "speakers"],
+          "ex": ["hand"],
+          "ac": "A hand plugs in a LAN wire into a TV. Content on TV changes from a movie to a youtube screen. Camera follows the wire into the wall and follows its spread to the speakers etc "
+        }
+      ],
+      "Film6": [
+        {
+          "lo": "park",
+          "pro": ["“No football” sign"],
+          "ac": "We see a “No football” sign in a park"
+        },
+        {
+          "lo": "living room",
+          "pro": ["PS3"],
+          "ex": ["pair of hands"],
+          "ac": "Cut to a pair of hands playing hard on a PS3 remote"
+        },
+        {
+          "lo": "park",
+          "pro": ["“No cycling” sign"],
+          "ac": "We see a “No cycling” sign in a park"
+        },
+        {
+          "lo": "living/bed room",
+          "pro": ["computer"],
+          "ex": ["fingers"],
+          "ac": "Cut to fingers banging hard on the keyboard of a computer"
+        },
+        {
+          "lo": "park",
+          "pro": ["“No running” sign"],
+          "ac": "We see a “No running” sign in a park"
+        },
+        {
+          "lo": "living/bed room",
+          "pro": ["mobile phone"],
+          "ex": ["hands"],
+          "ac": "Cut to hands playing on a mobile phone"
+        },
+        {
+          "lo": "park",
+          "pro": ["“No skateboarding” sign"],
+          "ac": "We see a “No skateboarding” sign on a pavement"
+        },
+        {
+          "lo": "game arcade",
+          "ex": ["feet"],
+          "pro": ["skate boarding game machine"],
+          "ac": "We see feet on a skate boarding game"
+        },
+        {
+          "lo": "park",
+          "pro": ["“No Cricket” sign"],
+          "ac": "We see a “No Cricket” sign"
+        },
+        {
+          "lo": "living/bed room",
+          "pro": ["WII"],
+          "ex": ["hand"],
+          "ac": "A hand holds a wii / PS move controller like a bat"
+        },
+        {
+          "lo": "park",
+          "pro": ["“play area” sign", "wicket", "bat"],
+          "ex": ["kid hand", "kid hand"],
+          "ac": "We see a play area sign. A pair of small hands hold a wicket while another hits it on the head with a bat. "
+        }
+      ],
+      "Film7": [
+        {
+          "lo": "elevator",
+          "pro": ["Wheelchair"],
+          "ex": ["man"],
+          "ac": "Wheelchair comes out of a lift with a thump"
+        },
+        {
+          "lo": "super market",
+          "pro": ["Shopping Cart"],
+          "ex": ["man's feet"],
+          "ac": "Hint of feet next to shopping cart wheel stuck at super mart gate."
+        },
+        {
+          "lo": "mall/escalator",
+          "costume": ["Saree"],
+          "ex": ["old aunty"],
+          "ac": "An old aunty in a saree almost trips while stepping off an escalator"
+        },
+        {
+          "lo": "Road/pavement",
+          "pro": ["pram wheel"],
+          "ex": ["man's feet"],
+          "ac": "Hint of feet next to a pram wheel struggling to climb from the road onto a pavement"
+        },
+        {
+          "lo": "Street with speed breakers",
+          "pro": ["Car"],
+          "ac": "Wheel of a car goes over those annoying multiple speed breakers"
+        },
+        {
+          "lo": "Street",
+          "pro": ["food trolley(full of food items)", "glass"],
+          "ac": "Wheel of a food trolley gets stuck on the profile between floors and it wobbles. A glass falls to the floor and shatters. (Clinking of glass followed by shattering as the glass falls to the ground.) "
+        },
+        {
+          "lo": "house/studio(2 different flooring)",
+          "ex": ["man's feet"],
+          "ac": "We see feet do a comedic moonwalk across two different floorings"
+        }
+      ],
+      "Film8": [
+        {
+          "lo": "pet shop",
+          "ex": ["kid", "puppy", "iguana / hamster"],
+          "ac": "A kid in a pet shop tries to choose between a puppy and an iguana / hamster. His finger moves from one to the other."
+        },
+        {
+          "lo": "barber shop",
+          "pro": ["hair catalogue"],
+          "ex": ["young guy"],
+          "ac": "A young guy at a barbershop moves his finger between two different kinds of haircuts from a catalogue."
+        },
+        {
+          "lo": "mall/shop",
+          "pro": ["color shade card"],
+          "ex": ["lady"],
+          "ac": "A lady tries to choose between two shades of paint on a shade card"
+        },
+        {
+          "lo": "living room",
+          "pro": ["TV", "Couch"],
+          "ex": ["guy"],
+          "ac": "A guy sitting on a couch changes the channel between a Cricket match and a football match"
+        },
+        {
+          "lo": "street with 2 restaruant",
+          "pro": ["Italian Restaruant Board", "Chineese Restaruant Board"],
+          "ac": "We see two restaurant boards side by side. One’s Oriental one is Italian. Camera focuses on one then the other back to the first "
+        },
+        {
+          "lo": "club/bar",
+          "ex": ["guy", "waiter", "hot girl 1", "hot girl 2"],
+          "pro": ["cocktail drink"],
+          "ac": "A guy at a club tells the waiter to send over a drink to one girl, then changes his mind and points to another girl. Then points to the first girl again "
+        },
+        {
+          "lo": "AC Vent",
+          "ac": "Camera romances an AC vent. Then passes through the vents to capture the system inside"
+        }
+      ]
+    }
+  }
+]

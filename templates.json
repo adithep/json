@@ -80,6 +80,8 @@
     "tem_ty_n": "input",
     "tem_comp": "div_tem",
     "tem_class": "input_div",
+    "doc_comp": "input_tem",
+    "doc_class": "input",
     "app_n_arr": ["marathon"]
   },
   {

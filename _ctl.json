@@ -48,7 +48,7 @@
     "_ctl_n": "main_nav_btn",
     "data": {
       "_s_n": "paths",
-      "path_n": {"$in": ["home", "about", "experiences", "contact"]}
+      "path_n": {"$in": ["home", "about", "experiences", "contact_us"]}
     },
     "data_sort_key": "path_n",
     "data_sort_arr": ["home", "about", "experiences", "contact"],
