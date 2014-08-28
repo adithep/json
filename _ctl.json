@@ -60,10 +60,10 @@
   {
     "_id": "p4tGpeh7BZ593Mhsk",
     "_ctl_n": "submit_btn",
-    "data_dis_key_arr": [{"key_n": "_btn_dis"}],
+    "data_dis_key_arr": [{"key_n": "_btn_dis", "_evt": "form_submit"}],
     "data": {
       "_s_n": "_btn",
-      "_btn_n": "submit_btn"
+      "_btn_n": "submit"
     },
     "tem_ty_n": "input"
   },

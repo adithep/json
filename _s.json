@@ -540,6 +540,23 @@
   },
 
   {
+    "_s_n_for": "_btn",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "_btn.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "_btn_n",
+      "_btn_dis",
+      "sort",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
     "_s_n_for": "tem_looks",
     "_s_n": "_s",
     "json": [

@@ -85,6 +85,12 @@
     "app_n_arr": ["marathon"]
   },
   {
+    "tem_ty_n": "inquiry_form",
+    "tem_comp": "form_tem",
+    "tem_class": "form",
+    "app_n_arr": ["marathon"]
+  },
+  {
     "tem_ty_n": "banner",
     "tem_comp": "div_tem",
     "tem_class": "banner",
