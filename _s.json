@@ -429,6 +429,25 @@
   },
 
   {
+    "_s_n_for": "inquiry",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "employees.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "human_id",
+      "first_n",
+      "inquiry",
+      "app_n_arr",
+      "sort",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
     "_s_n_for": "translations",
     "_s_n": "_s",
     "json": [

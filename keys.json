@@ -18,6 +18,11 @@
     "key_dis": "Approach Name"
   },
   {
+    "key_n": "inquity",
+    "key_ty": "_st",
+    "key_dis": "Inquiry"
+  },
+  {
     "key_n": "key_n",
     "key_r": true,
     "key_ty": "_st",

@@ -32,6 +32,42 @@
     "tem_ty_n": "footer"
   },
 
+  {
+    "_id": "djjwBQWgPXWQfJMGs",
+    "_ctl_n": "inquiry_form",
+    "data": {
+      "_s_n": "_ctl",
+      "_id": {"$in": ["dsM9b2kwigkJFGTQz", "p4tGpeh7BZ593Mhsk"]}
+    },
+    "data_sort_key": "_id",
+    "data_sort_arr": ["dsM9b2kwigkJFGTQz", "p4tGpeh7BZ593Mhsk"],
+    "tem_ty_n": "inquiry_form"
+  },
+
+  {
+    "_id": "dsM9b2kwigkJFGTQz",
+    "_ctl_n": "inquiry",
+    "data_dis_key_arr": [{"key_n": "key_dis"}],
+    "data": {
+      "_s_n": "keys",
+      "key_n": {"$in": ["first_n", "email_main_arr", "inquiry"]}
+    },
+    "data_sort_key": "key_n",
+    "data_sort_arr": ["first_n", "email_main_arr", "inquiry"],
+    "tem_ty_n": "input"
+  },
+
+  {
+    "_id": "p4tGpeh7BZ593Mhsk",
+    "_ctl_n": "submit_btn",
+    "data_dis_key_arr": [{"key_n": "_btn_dis"}],
+    "data": {
+      "_s_n": "_btn",
+      "_btn_n": "submit_btn"
+    },
+    "tem_ty_n": "input"
+  },
+
 
   {
     "_id": "bjp2XdDbTsHmpMAZK",
