@@ -40,6 +40,7 @@
       "_id": {"$in": ["dsM9b2kwigkJFGTQz", "mNBW8LT72c7WxqPcm", "p4tGpeh7BZ593Mhsk"]}
     },
     "data_sort_key": "_id",
+    "form_ctl": "inquiry",
     "data_sort_arr": ["dsM9b2kwigkJFGTQz", "mNBW8LT72c7WxqPcm", "p4tGpeh7BZ593Mhsk"],
     "tem_ty_n": "inquiry_form"
   },
@@ -47,24 +48,26 @@
   {
     "_id": "dsM9b2kwigkJFGTQz",
     "_ctl_n": "inquiry",
-    "data_dis_key_arr": [{"key_n": "key_dis"}],
+    "data_dis_key_arr": [{"key_n": "key_dis", "_evt": "form_insert"}],
     "data": {
       "_s_n": "keys",
       "key_n": {"$in": ["first_n", "email_main_arr"]}
     },
     "data_sort_key": "key_n",
-    "data_sort_arr": ["first_n", "email_main_arr", "inquiry"],
+    "form_el": true,
+    "data_sort_arr": ["first_n", "email_main_arr"],
     "tem_ty_n": "input"
   },
 
   {
     "_id": "mNBW8LT72c7WxqPcm",
     "_ctl_n": "inquiry",
-    "data_dis_key_arr": [{"key_n": "key_dis"}],
+    "data_dis_key_arr": [{"key_n": "key_dis", "_evt": "form_insert"}],
     "data": {
       "_s_n": "keys",
       "key_n": "inquiry"
     },
+    "form_el": true,
     "tem_ty_n": "textarea"
   },
 
