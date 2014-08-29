@@ -95,6 +95,22 @@
     "tem_comp": "div_tem",
     "tem_class": "banner",
     "app_n_arr": ["marathon"]
+  },
+  {
+    "tem_ty_n": "_btn",
+    "tem_comp": "div_tem",
+    "tem_class": "_btn_div",
+    "doc_comp": "span_tem",
+    "doc_class": "_btn",
+    "app_n_arr": ["marathon"]
+  },
+  {
+    "tem_ty_n": "textarea",
+    "tem_comp": "div_tem",
+    "tem_class": "textarea_div",
+    "doc_comp": "textarea_tem",
+    "doc_class": "textarea",
+    "app_n_arr": ["marathon"]
   }
 
 ]

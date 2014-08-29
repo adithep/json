@@ -39,6 +39,10 @@
     "position": "Location Manager",
     "name": "Pom",
     "cost": 25000,
+    "scout": {
+      "car": 1500,
+      "gas": 1500
+    },
     "confirm": true,
     "mobile": "+66818089550"
   },
