@@ -94,6 +94,8 @@
     "tem_ty_n": "banner",
     "tem_comp": "div_tem",
     "tem_class": "banner",
+    "doc_comp": "span_div_tem",
+    "doc_class": "span_banner",
     "app_n_arr": ["marathon"]
   },
   {

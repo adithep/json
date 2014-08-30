@@ -5,5 +5,13 @@
     "email_main_arr": ["marathon@marathon-films.com"],
     "_adr_main_city_n": "Bangkok",
     "_adr_main_country_n": "Thailand"
+  },
+
+  {
+    "_id": "NvaPenXwJbiCPRnqm",
+    "company_n": "ALpha Films",
+    "email_main_arr": ["alpha@alpha-films.com", "casting@alpha-films.com"],
+    "_adr_main_city_n": "Bangkok",
+    "_adr_main_country_n": "Thailand"
   }
 ]
