@@ -4,6 +4,7 @@
     "name": "Greed",
     "cost": 15000,
     "confrim": true,
+    "confirm_nd": true,
     "mobile": "+66912159386"
   },
   {
@@ -12,6 +13,7 @@
     "cost": 20000,
     "prop_cost": 10000,
     "confirm": true,
+    "confirm_nd": true,
     "mobile": "+66944244914"
   },
   {
@@ -19,6 +21,7 @@
     "name": "Ad",
     "cost": 30000,
     "confirm": true,
+    "confirm_nd": true,
     "mobile": "+66877196666"
   },
   {
@@ -26,13 +29,15 @@
     "name": "Aun",
     "cost": 16000,
     "confirm": true,
+    "confirm_nd": true,
     "mobile": "+66814960718"
   },
   {
     "position": "Hair",
     "name": "",
     "cost": 16000,
-    "confirm": false,
+    "confirm": true,
+    "confirm_nd": true,
     "mobile": ""
   },
   {
@@ -44,6 +49,7 @@
       "gas": 1500
     },
     "confirm": true,
+    "confirm_nd": true,
     "mobile": "+66818089550"
   },
 ]
