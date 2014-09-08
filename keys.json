@@ -18,6 +18,34 @@
     "key_dis": "Approach Name"
   },
   {
+    "key_n": "form_state_set_n",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "form_state_glyph",
+    "key_key": "form_state_set_n",
+    "key_dis": "Form State Glyph"
+  },
+  {
+    "key_n": "error_font",
+    "key_ty": "_st",
+    "key_dis": "Error Font"
+  },
+  {
+    "key_n": "ok_font",
+    "key_ty": "_st",
+    "key_dis": "OK Font"
+  },
+  {
+    "key_n": "ok_code",
+    "key_ty": "_st",
+    "key_dis": "OK Code"
+  },
+  {
+    "key_n": "error_code",
+    "key_ty": "_st",
+    "key_dis": "Error Code"
+  },
+  {
     "key_n": "inquiry",
     "key_ty": "_st",
     "key_dis": "Inquiry"

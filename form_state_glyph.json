@@ -1,0 +1,10 @@
+[
+  {
+    "form_state_set_n": "font_awesome",
+    "error_font": "font_awesome_unicode",
+    "error_code": "",
+    "ok_font": "font_awesome_unicode",
+    "ok_code": "",
+    "app_n_arr": ["marathon"]
+  }
+]

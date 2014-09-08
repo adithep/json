@@ -325,6 +325,27 @@
   },
 
   {
+    "_s_n_for": "form_state_glyph",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "form_state_glyph.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "form_state_set_n",
+      "error_font",
+      "error_code",
+      "ok_font",
+      "ok_code",
+      "app_n_arr",
+      "sort",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
     "_s_n_for": "approaches",
     "_s_n": "_s",
     "json": [

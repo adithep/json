@@ -1,7 +1,22 @@
 [
-  {"_id": "marathon@marathon-films.com"},
-  {"_id": "producer@marathon-films.com"},
-  {"_id": "locations@marathon-films.com"},
-  {"_id": "alpha@alpha-films.com"},
-  {"_id": "casting@alpha-films.com"}
+  {
+    "_id": "marathon@marathon-films.com",
+    "email_ty": "company"
+  },
+  {
+    "_id": "producer@marathon-films.com",
+    "email_ty": "company_shared"
+  },
+  {
+    "_id": "locations@marathon-films.com",
+    "email_ty": "company_shared"
+  },
+  {
+    "_id": "alpha@alpha-films.com",
+    "email_ty": "company"
+  },
+  {
+    "_id": "casting@alpha-films.com",
+    "email_ty": "company_shared"
+  }
 ]

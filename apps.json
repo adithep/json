@@ -2,6 +2,7 @@
   {
     "app_n": "marathon",
     "app_dis": "Marathon",
-    "look_n": "mara"
+    "look_n": "mara",
+    "form_state_set_n": "font_awesome"
   }
 ]
