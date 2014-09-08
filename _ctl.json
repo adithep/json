@@ -5,10 +5,10 @@
     "_ctl_n": "main_nav",
     "data": {
       "_s_n": "_ctl",
-      "_id": {"$in": ["bjp2XdDbTsHmpMAZK", "nWXjxjXXqL28SZu7v"]}
+      "_id": {"$in": ["bjp2XdDbTsHmpMAZK", "suxa88K3Z66DER5ko", "nWXjxjXXqL28SZu7v"]}
     },
     "data_sort_key": "_id",
-    "data_sort_arr": ["bjp2XdDbTsHmpMAZK", "nWXjxjXXqL28SZu7v"],
+    "data_sort_arr": ["bjp2XdDbTsHmpMAZK", "suxa88K3Z66DER5ko", "nWXjxjXXqL28SZu7v"],
     "tem_ty_n": "main_nav"
   },
 
@@ -97,12 +97,12 @@
     "_id": "nWXjxjXXqL28SZu7v",
     "_ctl_n": "main_nav_btn",
     "data": {
-      "_s_n": "paths",
+      "_s_n": "a_paths",
       "path_n": {"$in": ["home", "about", "experiences", "contact_us"]}
     },
     "data_sort_key": "path_n",
     "data_sort_arr": ["home", "about", "experiences", "contact"],
-    "data_dis_key_arr": [{"key_n": "path_dis", "dropdown": "path", "evt": "drop"}],
+    "data_dis_key_arr": [{"key_n": "path_dis", "dropdown": "dropdown", "_evt": "drop"}],
     "data_href": "path_n",
     "tem_ty_n": "nav_btn_list"
   },
@@ -112,7 +112,7 @@
     "data_func": "current_user",
     "data_dis_key_arr": [{"key_n": "username"}],
     "tem_ty_n": "nav_user",
-    "evts": [{"evt": "logout"}]
+    "evts": [{"_evt": "logout"}]
   },
   {
     "_id": "suxa88K3Z66DER5ko",
@@ -211,8 +211,8 @@
   {
     "_id": "jpykJvcJCQpsv3Df8",
     "_ctl_n": "img_gr_btn_gr",
-    "data_dis_key_arr": [{"key_n": "path_dis", "dropdown": "path", "evt": "drop"}],
-    "data": { "_s_n": "paths", "path_n": {"$in": ["img_location", "img_behind_the_scene"]}},
+    "data_dis_key_arr": [{"key_n": "path_dis", "dropdown": "dropdown", "_evt": "drop"}],
+    "data": { "_s_n": "a_paths", "path_n": {"$in": ["img_location", "img_behind_the_scene"]}},
     "data_sort_key": "path_n",
     "data_sort_arr": ["img_location", "img_behind_the_scene"],
     "tem_ty_n": "_btn_gr",
@@ -223,7 +223,7 @@
     "_ctl_n": "img_location_gr_btn_gr",
     "data_dis_key_arr": [{"key_n": "path_dis"}],
     "data": {
-      "_s_n": "paths",
+      "_s_n": "a_paths",
       "path_n": {"$in": [
         "img_location_restaruant",
         "img_location_condo",
@@ -255,7 +255,7 @@
       "img_ty_arr": "behind_the_scene"
     },
     "tem_ty_n": "img_gr",
-    "evts": [{"evt": "change_local_sort"}]
+    "evts": [{"_evt": "change_local_sort"}]
   },
   {
     "_id": "u8FmC5RyuDFXBEYcj",
@@ -275,7 +275,7 @@
       }
     },
     "tem_ty_n": "img_gr",
-    "evts": [{"evt": "change_local_sort"}]
+    "evts": [{"_evt": "change_local_sort"}]
   },
   {
     "_id": "h2hHCAL27BgfGoHDi",
@@ -289,7 +289,7 @@
       }
     },
     "tem_ty_n": "img_gr",
-    "evts": [{"evt": "change_local_sort"}]
+    "evts": [{"_evt": "change_local_sort"}]
   },
   {
     "_id": "Xh3TbBRtEKGnriQmi",
@@ -307,7 +307,7 @@
       }
     },
     "tem_ty_n": "img_gr",
-    "evts": [{"evt": "change_local_sort"}]
+    "evts": [{"_evt": "change_local_sort"}]
   },
   {
     "_id": "LgcCG4LAoirQPs343",
@@ -325,6 +325,6 @@
       }
     },
     "tem_ty_n": "img_gr",
-    "evts": [{"evt": "change_local_sort"}]
+    "evts": [{"_evt": "change_local_sort"}]
   }
 ]

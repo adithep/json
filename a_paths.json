@@ -2,54 +2,69 @@
 
   {
     "path_n": "root",
-    "data": ["bJwTTkMkvhRqwYozx", "suxa88K3Z66DER5ko", "6bXwygerfPAmcYNXm", "EfD9438L3CrKx96wf"],
+    "data": ["bJwTTkMkvhRqwYozx", "6bXwygerfPAmcYNXm", "EfD9438L3CrKx96wf"],
+    "app_n_arr": ["marathon"]
+  },
+  {
+    "path_n": "home",
+    "data": [],
+    "path_dis": "Home",
     "app_n_arr": ["marathon"]
   },
   {
     "path_n": "about",
     "data": ["XuoPKrCK5jprAwgq2", "DKn73evJ3N2S34Q5r"],
+    "path_dis": "About",
     "app_n_arr": ["marathon"]
   },
   {
     "path_n": "experiences",
     "data": ["jpykJvcJCQpsv3Df8"],
-    "dropdown": ["jpykJvcJCQpsv3Df8"],
+    "path_dis": "Experiences",
+    "dropdown": "data",
     "app_n_arr": ["marathon"]
   },
   {
     "path_n": "img_location",
     "data": ["MAoByjD3DBLowphJz"],
-    "dropdown": ["MAoByjD3DBLowphJz"],
+    "path_dis": "Locations",
+    "dropdown": "data",
     "app_n_arr": ["marathon"]
   },
   {
     "path_n": "img_behind_the_scene",
     "data": ["F6yBfcYK28vTassg5"],
+    "path_dis": "Behind the Scenes",
     "app_n_arr": ["marathon"]
   },
   {
     "path_n": "img_location_restaruant",
     "data": ["u8FmC5RyuDFXBEYcj"],
+    "path_dis": "Restaruant",
     "app_n_arr": ["marathon"]
   },
   {
     "path_n": "img_location_condo",
     "data": ["h2hHCAL27BgfGoHDi"],
+    "path_dis": "Condo",
     "app_n_arr": ["marathon"]
   },
   {
     "path_n": "img_location_office",
     "data": ["Xh3TbBRtEKGnriQmi"],
+    "path_dis": "Office",
     "app_n_arr": ["marathon"]
   },
   {
     "path_n": "img_location_mall",
     "data": ["LgcCG4LAoirQPs343"],
+    "path_dis": "Mall",
     "app_n_arr": ["marathon"]
   },
   {
     "path_n": "contact_us",
     "data": ["TNbya8ujcbXm3md6w", "djjwBQWgPXWQfJMGs"],
+    "path_dis": "Contact Us",
     "app_n_arr": ["marathon"]
   }
 ]
