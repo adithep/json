@@ -3,6 +3,9 @@
     "app_n": "marathon",
     "app_dis": "Marathon",
     "look_n": "mara",
-    "form_state_set_n": "font_awesome"
+    "form_state_set_n": "font_awesome",
+    "default_form_submit_message": "Thankyou. We will get back to you shortly.",
+    "form_show_error_glyph": true,
+    "form_show_error_message": false
   }
 ]

@@ -40,6 +40,14 @@
       "_id": {"$in": ["dsM9b2kwigkJFGTQz", "mNBW8LT72c7WxqPcm", "p4tGpeh7BZ593Mhsk"]}
     },
     "data_sort_key": "_id",
+    "form_required": ["inquiry", {"or": ["first_n", "email_main_arr"]}],
+    "form_auto_add": {
+      "inquiry": {
+        "inquiry_for_s_n": "companies",
+        "inquiry_for_key": "_id",
+        "inquiry_for_val": "kbq2Wtg6PabRrPzob"
+      }
+    },
     "form_ctl": "inquiry",
     "data_sort_arr": ["dsM9b2kwigkJFGTQz", "mNBW8LT72c7WxqPcm", "p4tGpeh7BZ593Mhsk"],
     "tem_ty_n": "inquiry_form"
@@ -140,12 +148,21 @@
 
   {
     "_id": "9eCvGEkhFNHdiT4yY",
-    "_ctl_n": "inquiry_form",
+    "_ctl_n": "subscription_form",
     "data": {
       "_s_n": "_ctl",
       "_id": {"$in": ["dsM9b2kwigkJFGTQz", "p4tGpeh7BZ593Mhsk"]}
     },
     "data_sort_key": "_id",
+    "form_auto_add": {
+      "email_subscription": {
+        "email_subscription_for_s_n": "companies",
+        "email_subscription_for_key": "_id",
+        "email_subscription_for_val": "kbq2Wtg6PabRrPzob"
+      }
+    },
+    "form_required": ["email_main_arr"],
+    "form_ctl": "email_subscription",
     "data_sort_arr": ["dsM9b2kwigkJFGTQz", "p4tGpeh7BZ593Mhsk"],
     "tem_ty_n": "inquiry_form"
   },

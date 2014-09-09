@@ -14,6 +14,7 @@
       "_s_keys",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -38,6 +39,7 @@
       "key_dis",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -56,6 +58,7 @@
       "path_dis",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -74,6 +77,7 @@
       "continent_c",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -106,6 +110,7 @@
       "sub_region",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -126,6 +131,7 @@
       "population",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -149,6 +155,7 @@
       "currency_n_pl",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -168,6 +175,7 @@
       "_nt_language_n",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -185,6 +193,7 @@
       "service_n",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -202,6 +211,7 @@
       "title_n",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -224,6 +234,7 @@
       "cost",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -240,6 +251,7 @@
       "_s_n",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -256,6 +268,7 @@
       "_s_n",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -281,6 +294,7 @@
       "city_n_arr",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -298,6 +312,7 @@
       "location_ty_n",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -319,6 +334,7 @@
       "city_n",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -340,6 +356,7 @@
       "ok_code",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -359,6 +376,7 @@
       "approach_description",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -389,6 +407,7 @@
       "_adr_main_country_n",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -416,6 +435,7 @@
       "_adr_main_country_n",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -444,6 +464,7 @@
       "_adr_main_country_n",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -459,10 +480,42 @@
       "_id",
       "_s_n",
       "human_id",
+      "company_id",
+      "employee_id",
+      "email_main",
       "first_n",
       "inquiry",
+      "inquiry_for_s_n",
+      "inquiry_for_key",
+      "inquiry_for_val",
       "app_n_arr",
       "sort",
+      "_app",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "email_subscription",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "email_subscription.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "human_id",
+      "company_id",
+      "employee_id",
+      "email_main",
+      "first_n",
+      "email_subscription_for_s_n",
+      "email_subscription_for_key",
+      "email_subscription_for_val",
+      "app_n_arr",
+      "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -484,6 +537,7 @@
       "_tr_st",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -501,6 +555,7 @@
       "dis_ty_n",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -520,6 +575,7 @@
       "doc_comp",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -538,6 +594,7 @@
       "tem_ty_n_arr",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -555,6 +612,7 @@
       "_tri_action_n",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -572,6 +630,7 @@
       "_btn_n",
       "_btn_dis",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -590,6 +649,7 @@
       "look_n",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -607,6 +667,7 @@
       "app_n",
       "app_server_n",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -626,6 +687,7 @@
       "look_n",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -644,6 +706,7 @@
       "_ctl_id_arr",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]
@@ -671,11 +734,13 @@
       "data_sort_arr",
       "data_func",
       "slave_key",
+      "form_auto_add",
       "slave_data",
       "evts",
       "user",
       "app_n_arr",
       "sort",
+      "_app",
       "_dt",
       "_usr"
     ]

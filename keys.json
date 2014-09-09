@@ -18,12 +18,67 @@
     "key_dis": "Approach Name"
   },
   {
+    "key_n": "inquiry_for_s_n",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "_s",
+    "key_key": "_s_n_for",
+    "key_dis": "Inquiry For"
+  },
+  {
+    "key_n": "inquiry_for_key",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "keys",
+    "key_key": "key_n",
+    "key_dis": "Inquiry For"
+  },
+  {
+    "key_n": "inquiry_for_val",
+    "key_ty": "_st",
+    "key_dis": "Inquiry For"
+  },
+  {
+    "key_n": "form_auto_add",
+    "key_ty": "obj",
+    "key_dis": "Key-Val to auto add to Doc on submit"
+  },
+  {
+    "key_n": "email_subscription_for_s_n",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "_s",
+    "key_key": "_s_n_for",
+    "key_dis": "Subscription For"
+  },
+  {
+    "key_n": "email_subscription_for_key",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "keys",
+    "key_key": "key_n",
+    "key_dis": "Subscription For"
+  },
+  {
+    "key_n": "email_subscription_for_val",
+    "key_ty": "_st",
+    "key_dis": "Subscription For"
+  },
+  {
     "key_n": "form_state_set_n",
     "key_r": true,
     "key_ty": "_st",
     "key_s": "form_state_glyph",
     "key_key": "form_state_set_n",
     "key_dis": "Form State Glyph"
+  },
+  {
+    "key_n": "_app",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "apps",
+    "key_key": "app_n",
+    "key_dis": "Data From App"
   },
   {
     "key_n": "error_font",
