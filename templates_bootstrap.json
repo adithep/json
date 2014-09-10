@@ -3,14 +3,14 @@
     "tem_ty_n": "sub_path",
     "tem_comp": "sub_path",
     "tem_class": "sub_path",
-    "tem_frame": "alpha",
+    "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   },
   {
     "tem_ty_n": "main_nav",
     "tem_comp": "nav_with_con_tem",
-    "tem_class": "main_nav",
-    "tem_frame": "alpha",
+    "tem_class": "navbar navbar-default",
+    "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   },
   {
@@ -19,7 +19,7 @@
     "tem_class": "nav_title",
     "doc_comp": "h1_tem",
     "doc_class": "title_h1",
-    "tem_frame": "alpha",
+    "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   },
   {
@@ -28,7 +28,7 @@
     "tem_class": "nav_btn_list",
     "doc_comp": "span_tem",
     "doc_class": "_btn",
-    "tem_frame": "alpha",
+    "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   },
   {
@@ -37,7 +37,7 @@
     "tem_class": "_btn_gr",
     "doc_comp": "span_tem",
     "doc_class": "_btn",
-    "tem_frame": "alpha",
+    "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   },
   {
@@ -46,14 +46,14 @@
     "tem_class": "img_div",
     "doc_comp": "img_tem",
     "doc_class": "img",
-    "tem_frame": "alpha",
+    "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   },
   {
     "tem_ty_n": "footer",
     "tem_comp": "div_tem",
     "tem_class": "footer_div",
-    "tem_frame": "alpha",
+    "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
 
   },
@@ -63,7 +63,7 @@
     "tem_class": "footer_about",
     "doc_comp": "span_div_tem",
     "doc_class": "doc_dis",
-    "tem_frame": "alpha",
+    "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   },
   {
@@ -73,7 +73,7 @@
     "doc_comp": "span_div_tem",
     "doc_each_comp": "span_each_tem",
     "doc_class": "doc_dis",
-    "tem_frame": "alpha",
+    "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   },
   {
@@ -82,7 +82,7 @@
     "div_class": "contact_us",
     "doc_comp": "span_div_tem",
     "doc_class": "doc_dis",
-    "tem_frame": "alpha",
+    "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   },
 
@@ -92,14 +92,14 @@
     "tem_class": "input_div",
     "doc_comp": "input_tem",
     "doc_class": "input",
-    "tem_frame": "alpha",
+    "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   },
   {
     "tem_ty_n": "inquiry_form",
     "tem_comp": "form_tem",
     "tem_class": "form",
-    "tem_frame": "alpha",
+    "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   },
   {
@@ -108,7 +108,7 @@
     "tem_class": "banner",
     "doc_comp": "span_div_tem",
     "doc_class": "span_banner",
-    "tem_frame": "alpha",
+    "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   },
   {
@@ -117,7 +117,7 @@
     "tem_class": "_btn_div",
     "doc_comp": "span_tem",
     "doc_class": "_btn",
-    "tem_frame": "alpha",
+    "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   },
   {
@@ -126,7 +126,7 @@
     "tem_class": "textarea_div",
     "doc_comp": "textarea_tem",
     "doc_class": "textarea",
-    "tem_frame": "alpha",
+    "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   }
 
