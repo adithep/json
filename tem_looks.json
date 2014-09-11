@@ -1,7 +1,14 @@
 [
   {
     "app_n_arr": ["marathon"],
-    "tem_ty_n": "main_nav",
-    "look_n": "mara"
+    "tem_ty_n": "footer_about",
+    "tem_frame": "bootstrap",
+    "size": "col-md-5"
+  },
+  {
+    "app_n_arr": ["marathon"],
+    "tem_ty_n": "inquiry_form",
+    "tem_frame": "bootstrap",
+    "size": "col-md-5"
   }
 ]

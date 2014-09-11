@@ -8,7 +8,7 @@
   },
   {
     "tem_ty_n": "main_nav",
-    "tem_comp": "nav_with_con_tem",
+    "tem_comp": "nav_with_con_boot",
     "tem_class": "navbar navbar-default",
     "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
@@ -16,27 +16,28 @@
   {
     "tem_ty_n": "nav_title",
     "tem_comp": "div_tem",
-    "tem_class": "nav_title",
-    "doc_comp": "h1_tem",
-    "doc_class": "title_h1",
+    "tem_class": "navbar-header",
+    "doc_comp": "an_tem",
+    "doc_class": "navbar-brand",
     "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   },
   {
     "tem_ty_n": "nav_btn_list",
-    "tem_comp": "div_tem",
-    "tem_class": "nav_btn_list",
-    "doc_comp": "span_tem",
-    "doc_class": "_btn",
+    "tem_comp": "ul_tem",
+    "tem_class": "nav navbar-nav",
+    "doc_comp": "li_tem",
+    "doc_class": "boot_li",
     "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   },
   {
     "tem_ty_n": "_btn_gr",
-    "tem_comp": "div_with_con_tem",
-    "tem_class": "_btn_gr",
-    "doc_comp": "span_tem",
-    "doc_class": "_btn",
+    "tem_comp": "div_tem",
+    "tem_class": "btn-group",
+    "doc_comp": "_btn_tem",
+    "doc_class": "btn",
+    "doc_look": "btn-default",
     "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   },
@@ -45,7 +46,7 @@
     "tem_comp": "div_tem",
     "tem_class": "img_div",
     "doc_comp": "img_tem",
-    "doc_class": "img",
+    "doc_class": "img-responsive",
     "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   },
@@ -60,9 +61,9 @@
   {
     "tem_ty_n": "footer_about",
     "tem_comp": "div_tem",
-    "tem_class": "footer_about",
-    "doc_comp": "span_div_tem",
-    "doc_class": "doc_dis",
+    "tem_class": "list-group",
+    "doc_comp": "an_tem",
+    "doc_class": "list-group-item",
     "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   },
@@ -72,16 +73,8 @@
     "tem_class": "list_info",
     "doc_comp": "span_div_tem",
     "doc_each_comp": "span_each_tem",
-    "doc_class": "doc_dis",
-    "tem_frame": "bootstrap",
-    "app_n_arr": ["marathon"]
-  },
-  {
-    "tem_ty_n": "contact_us",
-    "tem_comp": "div_tem",
-    "div_class": "contact_us",
-    "doc_comp": "span_div_tem",
-    "doc_class": "doc_dis",
+    "doc_class": "lable",
+    "doc_look": "label-info",
     "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   },
@@ -89,9 +82,9 @@
   {
     "tem_ty_n": "input",
     "tem_comp": "div_tem",
-    "tem_class": "input_div",
+    "tem_class": "form-group",
     "doc_comp": "input_tem",
-    "doc_class": "input",
+    "doc_class": "form-control",
     "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   },
@@ -107,7 +100,8 @@
     "tem_comp": "div_tem",
     "tem_class": "banner",
     "doc_comp": "span_div_tem",
-    "doc_class": "span_banner",
+    "doc_class": "label",
+    "doc_look": "label-default",
     "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   },
@@ -115,17 +109,18 @@
     "tem_ty_n": "_btn",
     "tem_comp": "div_tem",
     "tem_class": "_btn_div",
-    "doc_comp": "span_tem",
-    "doc_class": "_btn",
+    "doc_comp": "_btn_tem",
+    "doc_class": "btn",
+    "doc_look": "btn-primary",
     "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   },
   {
     "tem_ty_n": "textarea",
     "tem_comp": "div_tem",
-    "tem_class": "textarea_div",
+    "tem_class": "form-group",
     "doc_comp": "textarea_tem",
-    "doc_class": "textarea",
+    "doc_class": "form-control",
     "tem_frame": "bootstrap",
     "app_n_arr": ["marathon"]
   }

@@ -2,6 +2,7 @@
   {
     "app_n": "marathon",
     "app_dis": "Marathon",
+    "tem_frame": "alpha",
     "look_n": "mara",
     "form_state_set_n": "font_awesome",
     "default_form_submit_message": "Thankyou. We will get back to you shortly.",

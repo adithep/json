@@ -565,7 +565,8 @@
     "_s_n_for": "templates",
     "_s_n": "_s",
     "json": [
-      {"_n": "main", "path": "templates.json"}
+      {"_n": "main", "path": "templates.json"},
+      {"_n": "bootstrap", "path": "templates_bootstrap.json"}
     ],
     "_s_keys": [
       "_id",
